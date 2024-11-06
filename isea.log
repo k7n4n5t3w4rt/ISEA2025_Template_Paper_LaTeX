@@ -1,0 +1,188 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  6 NOV 2024 08:14
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper,Panel,Poster,Demo,Special Track,Institutional Presentation,Artist Talk/isea.tex"
+(/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper,Panel,Poster,Demo,Special Track,Institutional Presentation,Artist Talk/isea.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (./isea.sty
+Conference Style for ISEA 2019 for LaTeX 2e -- version of Sep 17 2018
+\titlebox=\skip50
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeauthor on input line 712.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count196
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 27.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box51
+) (./isea.aux)
+\openout1 = `isea.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen144
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks19
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
+ [1{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 70.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 80.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+<figure.png, id=8, 242.9075pt x 142.5325pt>
+File: figure.png Graphic file (type png)
+<use figure.png>
+Package pdftex.def Info: figure.png  used on input line 107.
+(pdftex.def)             Requested size: 239.21352pt x 140.36378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 145.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 145.
+[2 <./figure.png (PNG copy)>]
+<two-column-figure.png, id=14, 803.0pt x 401.5pt>
+File: two-column-figure.png Graphic file (type png)
+<use two-column-figure.png>
+Package pdftex.def Info: two-column-figure.png  used on input line 154.
+(pdftex.def)             Requested size: 505.89pt x 252.95245pt.
+ (./isea.bbl) [3
+
+] [4 <./two-column-figure.png (PNG copy)>] (./isea.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2455 strings out of 474116
+ 42790 string characters out of 5732613
+ 1940187 words of memory out of 5000000
+ 24779 multiletter control sequences out of 15000+600000
+ 578911 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,11n,69p,1077b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on isea.pdf (4 pages, 162320 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
