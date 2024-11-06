@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex isea"] 1730839979.4857 "isea.aux" "isea.bbl" "isea" 1730878545.43323 0
-  "./isea.bib" 1730214740 2194 4a1b66f09ad70458e58281d74bcee79f ""
+["bibtex isea"] 1730887606.61054 "isea.aux" "isea.bbl" "isea" 1730925121.7097 0
+  "./isea.bib" 1730887605.54603 436036 a44ca6a1fbc5448ab9f388a60926cd68 ""
   "./isea.bst" 1730214740 21873 80a4fb31265122699a926083e20a98d2 ""
-  "isea.aux" 1730878545.25817 124 83c51ffb8990b267c8b28ff85560dee7 "pdflatex"
+  "isea.aux" 1730925121.52252 229 f6b5e7201e668cc71592f5692fe7cbd9 "pdflatex"
   (generated)
   "isea.bbl"
   "isea.blg"
   (rewritten before read)
-["pdflatex"] 1730878544.88543 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1730878545.43334 0
-  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1730878544.68281 15045 4aa36adcd1f47cdb61d4d2c27a4594db ""
+["pdflatex"] 1730925121.10838 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1730925121.70981 0
+  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1730925120.87096 18396 5f5c0f8384558e9d592a41d311a8edc5 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -66,10 +66,10 @@
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221851 5146b755db1b51297976139fe7739199 ""
   "figure.png" 1730214740 9861 97272be6d768342b7b265bade1f6f12a ""
-  "isea.aux" 1730878545.25817 124 83c51ffb8990b267c8b28ff85560dee7 "pdflatex"
-  "isea.bbl" 1730839979.56257 193 af05eb018f75c34c751a8b46b5b7e57b "bibtex isea"
+  "isea.aux" 1730925121.52252 229 f6b5e7201e668cc71592f5692fe7cbd9 "pdflatex"
+  "isea.bbl" 1730887606.70126 465 41952dc98c62a8dc61226ca634237d1d "bibtex isea"
   "isea.sty" 1730214740 13713 eeab261e94544bd36e0265d94d3dcf2b ""
-  "isea.tex" 1730878544.68281 15045 4aa36adcd1f47cdb61d4d2c27a4594db ""
+  "isea.tex" 1730925120.87096 18396 5f5c0f8384558e9d592a41d311a8edc5 ""
   "two-column-figure.png" 1730214740 84343 d64aed26da316b683296b768aa86cdb1 ""
   (generated)
   "isea.aux"
