@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  6 NOV 2024 08:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  6 NOV 2024 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper,Panel,Poster,Demo,Special Track,Institutional Presentation,Artist Talk/isea.tex"
-(/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper,Panel,Poster,Demo,Special Track,Institutional Presentation,Artist Talk/isea.tex
+**/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex
+(/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/base/article.cls
@@ -130,56 +130,50 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 60.
  [1{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 70.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 74.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 80.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 84.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 <figure.png, id=8, 242.9075pt x 142.5325pt>
 File: figure.png Graphic file (type png)
 <use figure.png>
-Package pdftex.def Info: figure.png  used on input line 107.
+Package pdftex.def Info: figure.png  used on input line 111.
 (pdftex.def)             Requested size: 239.21352pt x 140.36378pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 145.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 145.
-[2 <./figure.png (PNG copy)>]
+ [2 <./figure.png (PNG copy)>]
 <two-column-figure.png, id=14, 803.0pt x 401.5pt>
 File: two-column-figure.png Graphic file (type png)
 <use two-column-figure.png>
-Package pdftex.def Info: two-column-figure.png  used on input line 154.
+Package pdftex.def Info: two-column-figure.png  used on input line 158.
 (pdftex.def)             Requested size: 505.89pt x 252.95245pt.
- (./isea.bbl) [3
-
-] [4 <./two-column-figure.png (PNG copy)>] (./isea.aux)
+ (./isea.bbl) [3] [4 <./two-column-figure.png (PNG copy)>] (./isea.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2455 strings out of 474116
- 42790 string characters out of 5732613
- 1940187 words of memory out of 5000000
- 24779 multiletter control sequences out of 15000+600000
+ 2456 strings out of 474116
+ 42601 string characters out of 5732613
+ 1942187 words of memory out of 5000000
+ 24780 multiletter control sequences out of 15000+600000
  578911 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,1077b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,11n,69p,1195b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (4 pages, 162320 bytes).
+Output written on isea.pdf (4 pages, 164923 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
