@@ -5,34 +5,34 @@ The style file: isea.bst
 Database file #1: isea.bib
 You've used 13 entries,
             2568 wiz_defined-function locations,
-            658 strings with 6723 characters,
-and the built_in function-call counts, 4348 in all, are:
-= -- 456
-> -- 114
+            658 strings with 6671 characters,
+and the built_in function-call counts, 4277 in all, are:
+= -- 449
+> -- 103
 < -- 2
-+ -- 40
-- -- 34
-* -- 293
-:= -- 721
++ -- 36
+- -- 30
+* -- 282
+:= -- 713
 add.period$ -- 72
 call.type$ -- 13
-change.case$ -- 61
+change.case$ -- 59
 chr.to.int$ -- 13
 cite$ -- 13
 duplicate$ -- 203
 empty$ -- 364
-format.name$ -- 51
-if$ -- 909
+format.name$ -- 45
+if$ -- 895
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 21
 newline$ -- 86
 num.names$ -- 39
-pop$ -- 75
+pop$ -- 73
 preamble$ -- 1
-purify$ -- 82
+purify$ -- 80
 quote$ -- 0
-skip$ -- 154
+skip$ -- 152
 stack$ -- 0
 substring$ -- 177
 swap$ -- 42
@@ -42,5 +42,5 @@ top$ -- 0
 type$ -- 72
 warning$ -- 0
 while$ -- 36
-width$ -- 15
+width$ -- 17
 write$ -- 186

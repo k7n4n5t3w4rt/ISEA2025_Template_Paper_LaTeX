@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  10 NOV 2024 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  11 NOV 2024 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -131,20 +131,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 69.
+(Font)              <9> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 69.
+(Font)              <6> on input line 61.
  [1{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 
 ] [2] [3]
-Underfull \hbox (badness 1210) in paragraph at lines 151--152
+Underfull \hbox (badness 1210) in paragraph at lines 148--149
 \OT1/ptm/m/n/10 and, es-pe-cially, Alexan-der Baum-garten [[], pp.327-338].
  []
 
 [4] (./isea.bbl
-Underfull \hbox (badness 1194) in paragraph at lines 50--55
+Underfull \hbox (badness 1194) in paragraph at lines 56--61
 \OT1/ptm/m/it/10 Per-spec-tives on Psy-cho-log-i-cal Sci-ence \OT1/ptm/m/n/10 15(3):630--642.
  []
 
@@ -156,14 +156,14 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  2405 strings out of 474116
- 42180 string characters out of 5732613
+ 42192 string characters out of 5732613
  1946187 words of memory out of 5000000
  24739 multiletter control sequences out of 15000+600000
  577567 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,1753b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,11n,69p,1759b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (5 pages, 73521 bytes).
+Output written on isea.pdf (5 pages, 74976 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
