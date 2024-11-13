@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  11 NOV 2024 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  14 NOV 2024 05:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -59,7 +59,7 @@ LaTeX Info: Redefining \citeauthor on input line 712.
 LaTeX Info: Redefining \citeyear on input line 735.
 \c@NAT@ctr=\count196
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 27.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 32.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -69,20 +69,20 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (./isea.aux)
 \openout1 = `isea.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count198
@@ -127,46 +127,66 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 61.
+(Font)              <9> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 61.
+(Font)              <6> on input line 64.
  [1{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 
 ] [2] [3]
-Underfull \hbox (badness 1210) in paragraph at lines 148--149
+Underfull \hbox (badness 1210) in paragraph at lines 136--137
 \OT1/ptm/m/n/10 and, es-pe-cially, Alexan-der Baum-garten [[], pp.327-338].
  []
 
-[4] (./isea.bbl
-Underfull \hbox (badness 1194) in paragraph at lines 56--61
-\OT1/ptm/m/it/10 Per-spec-tives on Psy-cho-log-i-cal Sci-ence \OT1/ptm/m/n/10 15(3):630--642.
+[4] [5] [6] (./isea.bbl
+Underfull \hbox (badness 1412) in paragraph at lines 29--34
+[]\OT1/ptm/m/n/10 Flack, J. C.  2017.  Coarse-graining as a down-
  []
 
-) [5] (./isea.aux)
+
+Underfull \hbox (badness 1817) in paragraph at lines 29--34
+\OT1/ptm/m/n/10 ward cau-sa-tion mech-a-nism.  \OT1/ptm/m/it/10 Philo-soph-i-cal Trans-ac-
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 29--34
+\OT1/ptm/m/it/10 tions of the Royal So-ci-ety A: Math-e-mat-i-cal, Phys-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 29--34
+\OT1/ptm/m/it/10 i-cal and En-gi-neer-ing Sci-ences \OT1/ptm/m/n/10 375(2109).  []eprint:
+ []
+
+
+Overfull \hbox (33.86606pt too wide) in paragraph at lines 29--34
+\OT1/ptm/m/n/10 https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0338. 
+ []
+
+) [7] (./isea.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2405 strings out of 474116
- 42192 string characters out of 5732613
+ 2422 strings out of 474116
+ 42935 string characters out of 5732613
  1946187 words of memory out of 5000000
- 24739 multiletter control sequences out of 15000+600000
- 577567 words of font info for 65 fonts, out of 8000000 for 9000
+ 24756 multiletter control sequences out of 15000+600000
+ 577118 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,1759b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,11n,69p,1796b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (5 pages, 74976 bytes).
+Output written on isea.pdf (7 pages, 85353 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

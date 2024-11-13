@@ -3,44 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: isea.aux
 The style file: isea.bst
 Database file #1: isea.bib
-You've used 13 entries,
+Warning--empty note in HoelscherThPtcsOfPhsSpc2014
+You've used 19 entries,
             2568 wiz_defined-function locations,
-            658 strings with 6671 characters,
-and the built_in function-call counts, 4277 in all, are:
-= -- 449
-> -- 103
-< -- 2
-+ -- 36
-- -- 30
-* -- 282
-:= -- 713
-add.period$ -- 72
-call.type$ -- 13
-change.case$ -- 59
-chr.to.int$ -- 13
-cite$ -- 13
-duplicate$ -- 203
-empty$ -- 364
-format.name$ -- 45
-if$ -- 895
+            693 strings with 7738 characters,
+and the built_in function-call counts, 6255 in all, are:
+= -- 658
+> -- 156
+< -- 4
++ -- 51
+- -- 46
+* -- 406
+:= -- 1033
+add.period$ -- 102
+call.type$ -- 19
+change.case$ -- 89
+chr.to.int$ -- 19
+cite$ -- 20
+duplicate$ -- 305
+empty$ -- 531
+format.name$ -- 66
+if$ -- 1323
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 21
-newline$ -- 86
-num.names$ -- 39
-pop$ -- 73
+missing$ -- 28
+newline$ -- 120
+num.names$ -- 58
+pop$ -- 113
 preamble$ -- 1
-purify$ -- 80
+purify$ -- 118
 quote$ -- 0
-skip$ -- 152
+skip$ -- 232
 stack$ -- 0
-substring$ -- 177
-swap$ -- 42
-text.length$ -- 2
+substring$ -- 237
+swap$ -- 69
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
-warning$ -- 0
-while$ -- 36
-width$ -- 17
-write$ -- 186
+type$ -- 108
+warning$ -- 1
+while$ -- 52
+width$ -- 22
+write$ -- 263
+(There was 1 warning)
