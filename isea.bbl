@@ -12,6 +12,13 @@ Chang, H.
 \newblock {\em Inventing temperature: {Measurement} and scientific progress}.
 \newblock Oxford University Press.
 
+\bibitem[\protect\citeauthoryear{Cilliers and Richardson}{2001}]{CilliersRichardsonCmplxtyScnc2001}
+Cilliers, P., and Richardson, K.
+\newblock 2001.
+\newblock What is complexity science? {A} view from different directions.
+\newblock {\em Emergence: Complexity and organization} 3(1).
+\newblock Available at issue home page: https://journal.emergentpublications.com/Issue/3/1.
+
 \bibitem[\protect\citeauthoryear{Eagleton}{1990}]{EagletonFrPrtclrs1990}
 Eagleton, T.
 \newblock 1990.
@@ -116,5 +123,11 @@ Zepke, S.
 \newblock 2014.
 \newblock {\em Art as abstract machine: {Ontology} and aesthetics in {Deleuze} and {Guattari}}.
 \newblock Routledge.
+
+\bibitem[\protect\citeauthoryear{Zepke}{2017}]{ZepkeSblmArt2017}
+Zepke, S.
+\newblock 2017.
+\newblock {\em Sublime art: towards an aesthetics of the future}.
+\newblock Edinburgh: Edinburgh University Press.
 
 \end{thebibliography}
