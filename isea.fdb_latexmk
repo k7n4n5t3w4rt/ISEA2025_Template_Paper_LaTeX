@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex isea"] 1731573861.96017 "isea.aux" "isea.bbl" "isea" 1731573984.75211 0
+["bibtex isea"] 1731573861.96017 "isea.aux" "isea.bbl" "isea" 1731574181.98929 0
   "./isea.bib" 1731570524.27299 435436 cd54a01a18ff816fdaa5081b9a103a38 ""
   "./isea.bst" 1730214740 21873 80a4fb31265122699a926083e20a98d2 ""
-  "isea.aux" 1731573984.58286 4645 b5ba47f27848b4c076c1db4a7fa46223 "pdflatex"
+  "isea.aux" 1731574181.83436 4645 b5ba47f27848b4c076c1db4a7fa46223 "pdflatex"
   (generated)
   "isea.bbl"
   "isea.blg"
   (rewritten before read)
-["pdflatex"] 1731573984.17792 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1731573984.75223 0
-  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1731573983.98147 57685 6994e7326c447fd75d5a49df42437ffb ""
+["pdflatex"] 1731574181.36593 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1731574181.98941 0
+  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1731574181.11397 57674 c1a15f269bebe53dc5ca3a12d3600d80 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -57,10 +57,10 @@
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/times.sty" 1710106625 856 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221851 5146b755db1b51297976139fe7739199 ""
-  "isea.aux" 1731573984.58286 4645 b5ba47f27848b4c076c1db4a7fa46223 "pdflatex"
+  "isea.aux" 1731574181.83436 4645 b5ba47f27848b4c076c1db4a7fa46223 "pdflatex"
   "isea.bbl" 1731573862.05252 7983 b4c1dbed746c88ca662771342744c80e "bibtex isea"
   "isea.sty" 1730214740 13713 eeab261e94544bd36e0265d94d3dcf2b ""
-  "isea.tex" 1731573983.98147 57685 6994e7326c447fd75d5a49df42437ffb ""
+  "isea.tex" 1731574181.11397 57674 c1a15f269bebe53dc5ca3a12d3600d80 ""
   (generated)
   "isea.aux"
   "isea.log"
