@@ -4,45 +4,45 @@ The top-level auxiliary file: isea.aux
 The style file: isea.bst
 Database file #1: isea.bib
 Warning--empty note in HoelscherThPtcsOfPhsSpc2014
-You've used 23 entries,
+You've used 27 entries,
             2568 wiz_defined-function locations,
-            717 strings with 8392 characters,
-and the built_in function-call counts, 7482 in all, are:
-= -- 787
-> -- 190
+            749 strings with 9129 characters,
+and the built_in function-call counts, 8916 in all, are:
+= -- 947
+> -- 230
 < -- 4
-+ -- 61
-- -- 56
-* -- 496
-:= -- 1242
-add.period$ -- 123
-call.type$ -- 23
-change.case$ -- 108
-chr.to.int$ -- 23
-cite$ -- 24
-duplicate$ -- 360
-empty$ -- 630
-format.name$ -- 81
-if$ -- 1571
++ -- 74
+- -- 68
+* -- 610
+:= -- 1478
+add.period$ -- 145
+call.type$ -- 27
+change.case$ -- 129
+chr.to.int$ -- 27
+cite$ -- 28
+duplicate$ -- 416
+empty$ -- 740
+format.name$ -- 99
+if$ -- 1860
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 34
-newline$ -- 145
-num.names$ -- 70
-pop$ -- 131
+missing$ -- 39
+newline$ -- 171
+num.names$ -- 82
+pop$ -- 144
 preamble$ -- 1
-purify$ -- 143
+purify$ -- 169
 quote$ -- 0
-skip$ -- 275
+skip$ -- 318
 stack$ -- 0
-substring$ -- 282
-swap$ -- 77
+substring$ -- 375
+swap$ -- 85
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 132
+type$ -- 160
 warning$ -- 1
-while$ -- 62
-width$ -- 26
-write$ -- 319
+while$ -- 76
+width$ -- 30
+write$ -- 378
 (There was 1 warning)

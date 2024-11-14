@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  14 NOV 2024 08:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  14 NOV 2024 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -131,62 +131,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 82.
+(Font)              <9> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 82.
+(Font)              <6> on input line 64.
  [1{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 
 ] [2] [3]
-Underfull \hbox (badness 1210) in paragraph at lines 136--137
+Underfull \hbox (badness 1210) in paragraph at lines 132--133
 \OT1/ptm/m/n/10 and, es-pe-cially, Alexan-der Baum-garten [[], pp.327-338].
  []
 
-[4] [5] [6] (./isea.bbl
-Underfull \hbox (badness 1412) in paragraph at lines 36--41
+[4]
+Underfull \hbox (badness 1584) in paragraph at lines 176--177
+\OT1/ptm/m/n/10 lessly gen-er-a-tive source of in-for-ma-tion [[], p.7]. As
+ []
+
+[5] [6] (./isea.bbl
+Underfull \hbox (badness 1412) in paragraph at lines 43--48
 []\OT1/ptm/m/n/10 Flack, J. C.  2017.  Coarse-graining as a down-
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 36--41
+Underfull \hbox (badness 1817) in paragraph at lines 43--48
 \OT1/ptm/m/n/10 ward cau-sa-tion mech-a-nism.  \OT1/ptm/m/it/10 Philo-soph-i-cal Trans-ac-
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 36--41
+Underfull \hbox (badness 2744) in paragraph at lines 43--48
 \OT1/ptm/m/it/10 tions of the Royal So-ci-ety A: Math-e-mat-i-cal, Phys-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 36--41
+Underfull \hbox (badness 2343) in paragraph at lines 43--48
 \OT1/ptm/m/it/10 i-cal and En-gi-neer-ing Sci-ences \OT1/ptm/m/n/10 375(2109).  []eprint:
  []
 
 
-Overfull \hbox (33.86606pt too wide) in paragraph at lines 36--41
+Overfull \hbox (33.86606pt too wide) in paragraph at lines 43--48
 \OT1/ptm/m/n/10 https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0338. 
  []
 
-) [7] (./isea.aux)
+[7]) [8
+
+] (./isea.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2434 strings out of 474116
- 43304 string characters out of 5732613
- 1945187 words of memory out of 5000000
- 24768 multiletter control sequences out of 15000+600000
+ 2447 strings out of 474116
+ 43717 string characters out of 5732613
+ 1946187 words of memory out of 5000000
+ 24781 multiletter control sequences out of 15000+600000
  577118 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,11n,69p,1799b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (7 pages, 85365 bytes).
+Output written on isea.pdf (8 pages, 88272 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 47 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
