@@ -74,7 +74,6 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/t
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -83,6 +82,7 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 OUTPUT isea.pdf
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
@@ -99,10 +99,10 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/ti
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf

@@ -7,34 +7,34 @@ Warning--empty note in HoelscherThPtcsOfPhsSpc2014
 Warning--empty note in HoelscherThMxmmPtntlEntrpy2017
 You've used 31 entries,
             2568 wiz_defined-function locations,
-            773 strings with 9945 characters,
-and the built_in function-call counts, 10171 in all, are:
-= -- 1083
-> -- 264
+            772 strings with 9937 characters,
+and the built_in function-call counts, 10213 in all, are:
+= -- 1087
+> -- 270
 < -- 4
-+ -- 86
-- -- 78
-* -- 705
-:= -- 1688
++ -- 88
+- -- 80
+* -- 711
+:= -- 1696
 add.period$ -- 163
 call.type$ -- 31
-change.case$ -- 150
+change.case$ -- 151
 chr.to.int$ -- 31
 cite$ -- 33
 duplicate$ -- 463
 empty$ -- 836
-format.name$ -- 114
-if$ -- 2109
+format.name$ -- 117
+if$ -- 2117
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 41
 newline$ -- 193
 num.names$ -- 94
-pop$ -- 160
+pop$ -- 161
 preamble$ -- 1
-purify$ -- 194
+purify$ -- 195
 quote$ -- 0
-skip$ -- 361
+skip$ -- 360
 stack$ -- 0
 substring$ -- 449
 swap$ -- 92
@@ -44,6 +44,6 @@ top$ -- 0
 type$ -- 192
 warning$ -- 2
 while$ -- 87
-width$ -- 34
+width$ -- 35
 write$ -- 428
 (There were 2 warnings)
