@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  15 NOV 2024 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  18 NOV 2024 20:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -139,16 +139,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] [2]
-Underfull \hbox (badness 1584) in paragraph at lines 130--131
-\OT1/ptm/m/n/10 lessly gen-er-a-tive source of in-for-ma-tion [[], p.7]. As
- []
-
-[3] [4] [5] [6]
-Underfull \hbox (badness 1210) in paragraph at lines 250--251
+Underfull \hbox (badness 1210) in paragraph at lines 112--113
 \OT1/ptm/m/n/10 and, es-pe-cially, Alexan-der Baum-garten [[], pp.327-338].
  []
 
-[7] (./isea.bbl
+[3]
+Underfull \hbox (badness 1584) in paragraph at lines 159--160
+\OT1/ptm/m/n/10 lessly gen-er-a-tive source of in-for-ma-tion [[], p.7]. As
+ []
+
+[4] [5] [6] [7] (./isea.bbl
 Underfull \hbox (badness 1412) in paragraph at lines 54--59
 []\OT1/ptm/m/n/10 Flack, J. C.  2017.  Coarse-graining as a down-
  []
@@ -173,7 +173,7 @@ Overfull \hbox (33.86606pt too wide) in paragraph at lines 54--59
 \OT1/ptm/m/n/10 https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0338. 
  []
 
-) [8] [9
+[8]) [9
 
 ] (./isea.aux)
  ***********
@@ -182,15 +182,15 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2459 strings out of 474116
- 44200 string characters out of 5732613
+ 2453 strings out of 474116
+ 43963 string characters out of 5732613
  1946187 words of memory out of 5000000
- 24793 multiletter control sequences out of 15000+600000
+ 24787 multiletter control sequences out of 15000+600000
  577118 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,11n,69p,1799b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (9 pages, 91903 bytes).
+Output written on isea.pdf (9 pages, 94671 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
