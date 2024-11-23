@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  24 NOV 2024 04:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  24 NOV 2024 08:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -138,27 +138,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-] [2] [3] [4]
-Underfull \hbox (badness 1584) in paragraph at lines 201--202
-\OT1/ptm/m/n/10 lessly gen-er-a-tive source of in-for-ma-tion [[], p.7]. As
- []
-
-[5]
+] [2] [3] [4] [5]
 <bubble-sort.png, id=21, 827.09pt x 257.96375pt>
 File: bubble-sort.png Graphic file (type png)
 <use bubble-sort.png>
-Package pdftex.def Info: bubble-sort.png  used on input line 256.
+Package pdftex.def Info: bubble-sort.png  used on input line 250.
 (pdftex.def)             Requested size: 239.21352pt x 74.60681pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 257.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 251.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [6 <./bubble-sort.png>]
+Underfull \hbox (badness 1226) in paragraph at lines 268--271
+\OT1/ptm/m/n/10 emerg-ing tech-nolo-gies, be-cause the non-art pur-poses of
+ []
+
 <flow-attractor.png, id=27, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
-Package pdftex.def Info: flow-attractor.png  used on input line 279.
+Package pdftex.def Info: flow-attractor.png  used on input line 275.
 (pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
- [7 <./flow-attractor.png>] [8] (./isea.bbl
+[7 <./flow-attractor.png>] [8] (./isea.bbl
 Underfull \hbox (badness 1817) in paragraph at lines 66--71
 \OT1/ptm/m/n/10 ward cau-sa-tion mech-a-nism.  \OT1/ptm/m/it/10 Philo-soph-i-cal Trans-ac-
  []
@@ -194,15 +193,15 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2539 strings out of 474116
- 45993 string characters out of 5732613
+ 2542 strings out of 474116
+ 46065 string characters out of 5732613
  1947187 words of memory out of 5000000
- 24865 multiletter control sequences out of 15000+600000
+ 24868 multiletter control sequences out of 15000+600000
  579565 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,11n,69p,1795b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (10 pages, 4895397 bytes).
+Output written on isea.pdf (10 pages, 4896208 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

@@ -107,6 +107,10 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/ti
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT ./bubble-sort.png
 INPUT ./bubble-sort.png
 INPUT ./bubble-sort.png
@@ -122,10 +126,6 @@ INPUT ./flow-attractor.png
 INPUT ./flow-attractor.png
 INPUT ./flow-attractor.png
 INPUT ./flow-attractor.png
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT ./isea.bbl
 INPUT ./isea.bbl
 INPUT isea.bbl
