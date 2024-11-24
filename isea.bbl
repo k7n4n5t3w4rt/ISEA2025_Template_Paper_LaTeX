@@ -6,6 +6,13 @@ Arthur, W.~B.
 \newblock {\em The nature of technology : what it is and how it evolves}.
 \newblock London ;: Allen Lane.
 
+\bibitem[\protect\citeauthoryear{Cilliers and Richardson}{2001}]{CilliersRichardsonCmplxtyScnc2001}
+Cilliers, P., and Richardson, K.
+\newblock 2001.
+\newblock What is complexity science? {A} view from different directions.
+\newblock {\em Emergence: Complexity and organization} 3(1).
+\newblock Available at issue home page: https://journal.emergentpublications.com/Issue/3/1.
+
 \bibitem[\protect\citeauthoryear{{Complexity Explorer}}{2018}]{CrutchfieldIntrdctnToCmplxty2018}
 {Complexity Explorer}.
 \newblock 2018.
@@ -67,6 +74,13 @@ Flack, J.~C.
 \newblock Coarse-graining as a downward causation mechanism.
 \newblock {\em Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences} 375(2109).
 \newblock \_eprint: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0338.
+
+\bibitem[\protect\citeauthoryear{Friston}{2010}]{FristonThFrEnrgPrncpl2010}
+Friston, K.
+\newblock 2010.
+\newblock The free-energy principle: a unified brain theory?
+\newblock {\em Nature Reviews Neuroscience} 11(2):127--138.
+\newblock Publisher: Nature Publishing Group.
 
 \bibitem[\protect\citeauthoryear{Fusco}{2004}]{questioningTheFrame2004}
 Fusco, C.
@@ -134,12 +148,6 @@ Massumi, B.
 \newblock 1992.
 \newblock {\em A user's guide to capitalism and schizophrenia: {Deviations} from {Deleuze} and {Guattari}}.
 \newblock MIT press.
-
-\bibitem[\protect\citeauthoryear{Massumi}{2002}]{MassumiPrblsFrThVrtl2002}
-Massumi, B.
-\newblock 2002.
-\newblock {\em Parables for the {Virtual}: {Movement}, {Affect}, {Sensation}}.
-\newblock Post-contemporary interventions. Durham \& London: Duke University Press.
 
 \bibitem[\protect\citeauthoryear{Prigogine and Stengers}{2018}]{StengersOrdrOtOfChs1984}
 Prigogine, I., and Stengers, I.
