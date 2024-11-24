@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: isea.aux
+The style file: isea.bst
+Database file #1: isea.bib
+Warning--empty note in HoelscherThPtcsOfPhsSpc2014
+You've used 34 entries,
+            2568 wiz_defined-function locations,
+            799 strings with 10329 characters,
+and the built_in function-call counts, 10912 in all, are:
+= -- 1151
+> -- 282
+< -- 3
++ -- 92
+- -- 83
+* -- 746
+:= -- 1821
+add.period$ -- 179
+call.type$ -- 34
+change.case$ -- 162
+chr.to.int$ -- 34
+cite$ -- 35
+duplicate$ -- 488
+empty$ -- 912
+format.name$ -- 121
+if$ -- 2256
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 45
+newline$ -- 210
+num.names$ -- 104
+pop$ -- 189
+preamble$ -- 1
+purify$ -- 211
+quote$ -- 0
+skip$ -- 383
+stack$ -- 0
+substring$ -- 466
+swap$ -- 92
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 208
+warning$ -- 1
+while$ -- 93
+width$ -- 40
+write$ -- 466
+(There was 1 warning)

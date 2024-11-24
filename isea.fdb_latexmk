@@ -1,19 +1,21 @@
 # Fdb version 4
-["bibtex isea"] 0 "isea.aux" "isea.bbl" "isea" 1732398079.6849 -1
+["bibtex isea"] 1732444705.56875 "isea.aux" "isea.bbl" "isea" 1732444819.78331 0
   "./isea.bib" 1731570524.27299 435436 cd54a01a18ff816fdaa5081b9a103a38 ""
   "./isea.bst" 1730214740 21873 80a4fb31265122699a926083e20a98d2 ""
-  "isea.aux" 1732398079.52211 5013 22feed42f1e334f99e10c292741cb9d8 "pdflatex"
+  "isea.aux" 1732444819.50697 4627 424e577a5dc7ab0de3089f3e63bd8591 "pdflatex"
   (generated)
   "isea.bbl"
   "isea.blg"
   (rewritten before read)
-["pdflatex"] 1732398078.57775 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1732398079.68502 0
-  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1732398078.34099 57109 f86736066a76a68c944555d60fbb7479 ""
+["pdflatex"] 1732444818.31285 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1732444819.78345 0
+  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1732444818.07379 47909 29cb10dcaabdc8a3734ff5d56b059cab ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1710106625 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1710106625 4524 6bce29db5bc272ba5f332261583fee9c ""
+  "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1710106625 2228 e564491c42a4540b5ebb710a75ff306c ""
+  "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm" 1710106625 4480 10409ed8bab5aea9ec9a78028b763919 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1710106625 2124 2601a75482e9426d33db523edf23570a ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1710106625 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1710106625 4408 25b74d011a4c66b7f212c0cc3c90061b ""
@@ -27,9 +29,11 @@
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1710106625 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1710106625 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1710106625 44729 811d6c62865936705a31c797a1d5dada ""
+  "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1710106625 44656 0cbca70e0534538582128f6b54593cca ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1710106625 46026 6dab18b61c907687b520c72847215a68 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1710106625 45458 a3faba884469519614ca56ba5f6b1de1 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1710106625 1372 788387fea833ef5963f4c5bffe33eb89 ""
+  "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmbi7t.vf" 1710106625 1384 6ac0f8b839230f5d9389287365b243c0 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1710106625 1380 0ea3a3370054be6da6acd929ec569f06 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1710106625 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1710106625 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
@@ -64,10 +68,12 @@
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221851 5146b755db1b51297976139fe7739199 ""
   "bubble-sort.png" 1732353086.88975 1053898 2588816ceb9ded0e845417a193711d8d ""
   "flow-attractor.png" 1732351789.03774 3053632 818a347c3c821f27487d6d8c04049116 ""
-  "isea.aux" 1732398079.52211 5013 22feed42f1e334f99e10c292741cb9d8 "pdflatex"
-  "isea.bbl" 1732350923.50573 8988 ec50dc9d313cb8c5beb8d65c1794d7f8 "bibtex isea"
+  "isea.aux" 1732444819.50697 4627 424e577a5dc7ab0de3089f3e63bd8591 "pdflatex"
+  "isea.bbl" 1732444705.68113 8340 51f569b160dc6dada5ce82414487d17e "bibtex isea"
   "isea.sty" 1730214740 13713 eeab261e94544bd36e0265d94d3dcf2b ""
-  "isea.tex" 1732398078.34099 57109 f86736066a76a68c944555d60fbb7479 ""
+  "isea.tex" 1732444818.07379 47909 29cb10dcaabdc8a3734ff5d56b059cab ""
+  "robert-morris-cubes.png" 1732423414.32768 1402501 b8f292f326cf4a8d4f91f86c933f005e ""
+  "snow-shovel.png" 1732423555.02957 1025171 e4cdb0a7583134808f5eaa3c60f94c6a ""
   (generated)
   "isea.aux"
   "isea.log"

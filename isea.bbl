@@ -6,19 +6,6 @@ Arthur, W.~B.
 \newblock {\em The nature of technology : what it is and how it evolves}.
 \newblock London ;: Allen Lane.
 
-\bibitem[\protect\citeauthoryear{Chang}{2004}]{ChangInvntngTmprtr2004}
-Chang, H.
-\newblock 2004.
-\newblock {\em Inventing temperature: {Measurement} and scientific progress}.
-\newblock Oxford University Press.
-
-\bibitem[\protect\citeauthoryear{Cilliers and Richardson}{2001}]{CilliersRichardsonCmplxtyScnc2001}
-Cilliers, P., and Richardson, K.
-\newblock 2001.
-\newblock What is complexity science? {A} view from different directions.
-\newblock {\em Emergence: Complexity and organization} 3(1).
-\newblock Available at issue home page: https://journal.emergentpublications.com/Issue/3/1.
-
 \bibitem[\protect\citeauthoryear{{Complexity Explorer}}{2018}]{CrutchfieldIntrdctnToCmplxty2018}
 {Complexity Explorer}.
 \newblock 2018.
@@ -29,6 +16,25 @@ Crutchfield, J.~P., and Marzen, S.
 \newblock 2015.
 \newblock Signatures of {Infinity}: {Nonergodicity} and {Resource} {Scaling} in {Prediction}, {Complexity}, and {Learning}.
 \newblock {\em Physical Review E, Statistical, Nonlinear, and Soft Matter Physics} 91(5):050106--050106.
+
+\bibitem[\protect\citeauthoryear{Danto}{2007}]{DantoEmbdMnngs2007}
+Danto, A.~C.
+\newblock 2007.
+\newblock Embodied meanings, isotypes, and aesthetical ideas.
+\newblock {\em The Journal of Aesthetics and Art Criticism} 65(1):121--129.
+\newblock Publisher: Blackwell Publishing Inc Malden, USA.
+
+\bibitem[\protect\citeauthoryear{Deacon}{1998}]{DeaconTheSymbolicSpecies1998}
+Deacon, T.~W.
+\newblock 1998.
+\newblock {\em The symbolic species: {The} co-evolution of language and the brain}.
+\newblock WW Norton \& Company.
+
+\bibitem[\protect\citeauthoryear{DeLanda}{2016}]{DeLandaAssmblgThry2016}
+DeLanda, M.
+\newblock 2016.
+\newblock {\em Assemblage theory}.
+\newblock Edinburgh University Press.
 
 \bibitem[\protect\citeauthoryear{DeLanda}{2018}]{DeLandaCsltyAndMnng2018}
 DeLanda, M.
@@ -41,13 +47,6 @@ Deleuze, G.
 \newblock 2006.
 \newblock {\em Nietzsche and {Philosophy}}.
 \newblock European perspectives. New York: Columbia University Press.
-
-\bibitem[\protect\citeauthoryear{Eagleton}{1990}]{EagletonFrPrtclrs1990}
-Eagleton, T.
-\newblock 1990.
-\newblock Free {Particulars}.
-\newblock In {\em The {Ideology} of the {Aesthetic}}. Blackwell.
-\newblock  13--30.
 
 \bibitem[\protect\citeauthoryear{Flack and de Waal}{2007}]{FlackCntxtMdltsSgnlMnng2007}
 Flack, J.~C., and de~Waal, F.
@@ -68,6 +67,11 @@ Flack, J.~C.
 \newblock Coarse-graining as a downward causation mechanism.
 \newblock {\em Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences} 375(2109).
 \newblock \_eprint: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0338.
+
+\bibitem[\protect\citeauthoryear{Fusco}{2004}]{questioningTheFrame2004}
+Fusco, C.
+\newblock 2004.
+\newblock Questioning the {Frame}.
 
 \bibitem[\protect\citeauthoryear{Guattari}{1995}]{GuattariChsmss1995}
 Guattari, F.
@@ -130,13 +134,6 @@ Massumi, B.
 \newblock 1992.
 \newblock {\em A user's guide to capitalism and schizophrenia: {Deviations} from {Deleuze} and {Guattari}}.
 \newblock MIT press.
-
-\bibitem[\protect\citeauthoryear{Massumi}{1995}]{MassumiTheAtnmyOfAffct1995}
-Massumi, B.
-\newblock 1995.
-\newblock The autonomy of affect.
-\newblock {\em Cultural critique} (31):83--109.
-\newblock Publisher: JSTOR.
 
 \bibitem[\protect\citeauthoryear{Massumi}{2002}]{MassumiPrblsFrThVrtl2002}
 Massumi, B.
@@ -203,18 +200,6 @@ Tatarkiewicz, W.
 \newblock 1971.
 \newblock What {Is} {Art}? {The} {Problem} of {Definition} {Today}.
 \newblock {\em The British Journal of Aesthetics} 11(2):134--153.
-
-\bibitem[\protect\citeauthoryear{Zepke and O’Sullivan}{2010}]{ZepkeOSullivanDlzCntmprryArt2010}
-Zepke, S., and O’Sullivan, S., eds.
-\newblock 2010.
-\newblock {\em Deleuze and contemporary art}.
-\newblock Edinburgh University Press.
-
-\bibitem[\protect\citeauthoryear{Zepke}{2014}]{ZepkeArtAsAbstrctMchn2005}
-Zepke, S.
-\newblock 2014.
-\newblock {\em Art as abstract machine: {Ontology} and aesthetics in {Deleuze} and {Guattari}}.
-\newblock Routledge.
 
 \bibitem[\protect\citeauthoryear{Zepke}{2017}]{ZepkeSblmArt2017}
 Zepke, S.
