@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  25 NOV 2024 22:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  25 NOV 2024 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -59,7 +59,7 @@ LaTeX Info: Redefining \citeauthor on input line 712.
 LaTeX Info: Redefining \citeyear on input line 735.
 \c@NAT@ctr=\count196
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 33.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 30.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -69,20 +69,20 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (./isea.aux)
 \openout1 = `isea.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count198
@@ -127,16 +127,16 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 41.
+(Font)              <5> on input line 38.
 
-Underfull \hbox (badness 1158) in paragraph at lines 50--51
+Underfull \hbox (badness 1158) in paragraph at lines 47--48
 \OT1/ptm/m/n/10 Art, tech-nol-ogy, com-plex-ity, aes-thet-ics, af-fect, in-for-ma-
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 50--51
+Underfull \hbox (badness 3260) in paragraph at lines 47--48
 \OT1/ptm/m/n/10 tion, craft, sys-tems, emer-gence, mean-ing, con-straints,
  []
 
@@ -146,11 +146,11 @@ Underfull \hbox (badness 3260) in paragraph at lines 50--51
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 96.
+(Font)              <9> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 96.
+(Font)              <6> on input line 93.
  [2]
-Underfull \hbox (badness 1939) in paragraph at lines 141--142
+Underfull \hbox (badness 1939) in paragraph at lines 138--139
  \OT1/ptm/b/n/10 Epiphe-nom-e-nal Ob-jects with In-de-ter-mi-nate Mean-ing
  []
 
@@ -158,20 +158,20 @@ Underfull \hbox (badness 1939) in paragraph at lines 141--142
 <robert-morris-cubes.png, id=16, 1030.85126pt x 475.7775pt>
 File: robert-morris-cubes.png Graphic file (type png)
 <use robert-morris-cubes.png>
-Package pdftex.def Info: robert-morris-cubes.png  used on input line 158.
+Package pdftex.def Info: robert-morris-cubes.png  used on input line 155.
 (pdftex.def)             Requested size: 239.21352pt x 110.40659pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \OT1/ptm/m/n/10 https://www.theextravagant.com/lifestyle/art-culture/when-
  []
 
 <snow-shovel.png, id=18, 1437.37pt x 748.7975pt>
 File: snow-shovel.png Graphic file (type png)
 <use snow-shovel.png>
-Package pdftex.def Info: snow-shovel.png  used on input line 169.
+Package pdftex.def Info: snow-shovel.png  used on input line 166.
 (pdftex.def)             Requested size: 239.21352pt x 124.60884pt.
 
-Underfull \hbox (badness 1048) in paragraph at lines 183--184
+Underfull \hbox (badness 1048) in paragraph at lines 180--181
  \OT1/ptm/b/n/10 En-abling Con-straints \OT1/ptm/m/n/10 Ali-cia Juar-rero's con-cept of \OT1/ptm/m/it/10 en-
  []
 
@@ -179,16 +179,16 @@ Underfull \hbox (badness 1048) in paragraph at lines 183--184
 <bubble-sort.png, id=24, 827.09pt x 257.96375pt>
 File: bubble-sort.png Graphic file (type png)
 <use bubble-sort.png>
-Package pdftex.def Info: bubble-sort.png  used on input line 198.
+Package pdftex.def Info: bubble-sort.png  used on input line 195.
 (pdftex.def)             Requested size: 239.21352pt x 74.60681pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 199.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 196.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <flow-attractor.png, id=25, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
-Package pdftex.def Info: flow-attractor.png  used on input line 223.
+Package pdftex.def Info: flow-attractor.png  used on input line 220.
 (pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
 
 
@@ -237,7 +237,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  61i,11n,69p,1200b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (9 pages, 7332256 bytes).
+Output written on isea.pdf (9 pages, 7332291 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
