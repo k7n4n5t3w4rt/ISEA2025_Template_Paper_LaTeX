@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  26 NOV 2024 09:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  27 NOV 2024 15:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -146,11 +146,11 @@ Underfull \hbox (badness 3260) in paragraph at lines 47--48
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 93.
+(Font)              <9> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 93.
+(Font)              <6> on input line 96.
  [2]
-Underfull \hbox (badness 1939) in paragraph at lines 138--139
+Underfull \hbox (badness 1939) in paragraph at lines 137--138
  \OT1/ptm/b/n/10 Epiphe-nom-e-nal Ob-jects with In-de-ter-mi-nate Mean-ing
  []
 
@@ -158,10 +158,10 @@ Underfull \hbox (badness 1939) in paragraph at lines 138--139
 <robert-morris-cubes.png, id=16, 1030.85126pt x 475.7775pt>
 File: robert-morris-cubes.png Graphic file (type png)
 <use robert-morris-cubes.png>
-Package pdftex.def Info: robert-morris-cubes.png  used on input line 153.
+Package pdftex.def Info: robert-morris-cubes.png  used on input line 152.
 (pdftex.def)             Requested size: 239.21352pt x 110.40659pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
 \OT1/ptm/m/n/10 https://www.theextravagant.com/lifestyle/art-culture/when-
  []
 
@@ -171,7 +171,10 @@ File: snow-shovel.png Graphic file (type png)
 Package pdftex.def Info: snow-shovel.png  used on input line 164.
 (pdftex.def)             Requested size: 239.21352pt x 124.60884pt.
 
-Underfull \hbox (badness 1048) in paragraph at lines 178--179
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 179--180
  \OT1/ptm/b/n/10 En-abling Con-straints \OT1/ptm/m/n/10 Ali-cia Juar-rero's con-cept of \OT1/ptm/m/it/10 en-
  []
 
@@ -179,27 +182,23 @@ Underfull \hbox (badness 1048) in paragraph at lines 178--179
 <bubble-sort.png, id=24, 827.09pt x 257.96375pt>
 File: bubble-sort.png Graphic file (type png)
 <use bubble-sort.png>
-Package pdftex.def Info: bubble-sort.png  used on input line 193.
+Package pdftex.def Info: bubble-sort.png  used on input line 194.
 (pdftex.def)             Requested size: 239.21352pt x 74.60681pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 194.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 195.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <flow-attractor.png, id=25, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
-Package pdftex.def Info: flow-attractor.png  used on input line 218.
+Package pdftex.def Info: flow-attractor.png  used on input line 220.
 (pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[5 <./bubble-sort.png>] [6 <./flow-attractor.png>]
-Underfull \hbox (badness 2205) in paragraph at lines 275--276
+ [5 <./bubble-sort.png> <./flow-attractor.png>] [6]
+Underfull \hbox (badness 2205) in paragraph at lines 278--279
 []\OT1/ptm/m/n/10 Techne is evo-lu-tion-ary and pre{human. In-stead of
  []
 
-[7] (./isea.bbl
+(./isea.bbl [7]
 Underfull \hbox (badness 1817) in paragraph at lines 78--83
 \OT1/ptm/m/n/10 ward cau-sa-tion mech-a-nism.  \OT1/ptm/m/it/10 Philo-soph-i-cal Trans-ac-
  []
@@ -225,27 +224,25 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 203.
- [8]) [9
-
-] (./isea.aux)
+) [8] (./isea.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2561 strings out of 474116
- 46492 string characters out of 5732613
- 1947187 words of memory out of 5000000
- 24885 multiletter control sequences out of 15000+600000
- 580690 words of font info for 69 fonts, out of 8000000 for 9000
+ 2563 strings out of 474116
+ 46550 string characters out of 5732613
+ 1946187 words of memory out of 5000000
+ 24888 multiletter control sequences out of 15000+600000
+ 579006 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,1176b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,11n,69p,1170b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (9 pages, 7332385 bytes).
+Output written on isea.pdf (8 pages, 7330989 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
