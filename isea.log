@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  28 NOV 2024 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  28 NOV 2024 18:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -146,11 +146,11 @@ Underfull \hbox (badness 3260) in paragraph at lines 47--48
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 94.
+(Font)              <9> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 94.
+(Font)              <6> on input line 93.
  [2]
-Underfull \hbox (badness 1939) in paragraph at lines 134--135
+Underfull \hbox (badness 1939) in paragraph at lines 133--134
  \OT1/ptm/b/n/10 Epiphe-nom-e-nal Ob-jects with In-de-ter-mi-nate Mean-ing
  []
 
@@ -158,23 +158,23 @@ Underfull \hbox (badness 1939) in paragraph at lines 134--135
 <robert-morris-cubes.png, id=16, 1030.85126pt x 475.7775pt>
 File: robert-morris-cubes.png Graphic file (type png)
 <use robert-morris-cubes.png>
-Package pdftex.def Info: robert-morris-cubes.png  used on input line 149.
+Package pdftex.def Info: robert-morris-cubes.png  used on input line 148.
 (pdftex.def)             Requested size: 239.21352pt x 110.40659pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 \OT1/ptm/m/n/10 https://www.theextravagant.com/lifestyle/art-culture/when-
  []
 
 <snow-shovel.png, id=18, 1437.37pt x 748.7975pt>
 File: snow-shovel.png Graphic file (type png)
 <use snow-shovel.png>
-Package pdftex.def Info: snow-shovel.png  used on input line 161.
+Package pdftex.def Info: snow-shovel.png  used on input line 160.
 (pdftex.def)             Requested size: 239.21352pt x 124.60884pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 176--177
+Underfull \hbox (badness 1048) in paragraph at lines 175--176
  \OT1/ptm/b/n/10 En-abling Con-straints \OT1/ptm/m/n/10 Ali-cia Juar-rero's con-cept of \OT1/ptm/m/it/10 en-
  []
 
@@ -182,19 +182,19 @@ Underfull \hbox (badness 1048) in paragraph at lines 176--177
 <bubble-sort.png, id=24, 827.09pt x 257.96375pt>
 File: bubble-sort.png Graphic file (type png)
 <use bubble-sort.png>
-Package pdftex.def Info: bubble-sort.png  used on input line 191.
+Package pdftex.def Info: bubble-sort.png  used on input line 190.
 (pdftex.def)             Requested size: 239.21352pt x 74.60681pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 192.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 191.
  (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <flow-attractor.png, id=25, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
-Package pdftex.def Info: flow-attractor.png  used on input line 217.
+Package pdftex.def Info: flow-attractor.png  used on input line 216.
 (pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
  [5 <./bubble-sort.png> <./flow-attractor.png>] [6]
-Underfull \hbox (badness 2205) in paragraph at lines 273--274
+Underfull \hbox (badness 2205) in paragraph at lines 272--273
 []\OT1/ptm/m/n/10 Techne is evo-lu-tion-ary and pre{human. In-stead of
  []
 
@@ -213,7 +213,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  61i,11n,69p,1170b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (8 pages, 7322017 bytes).
+Output written on isea.pdf (8 pages, 7321933 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
