@@ -138,11 +138,7 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/adobe/t
 INPUT ./isea.bbl
 INPUT ./isea.bbl
 INPUT isea.bbl
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/omsptm.fd
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/omsptm.fd
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/omsptm.fd
 INPUT isea.aux
-INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
 INPUT /opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
