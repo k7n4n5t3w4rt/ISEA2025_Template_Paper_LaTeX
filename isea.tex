@@ -1,5 +1,19 @@
 \documentclass[letter:wpaper]{article}
 \usepackage{isea}
+% The pdftex option is necessary for the pdfinfo command to work, for the graphicx package to work, and for the correct fonts to work. It requires the pdfLaTeX renderer
+% [1] Select the Preferences: Open User Settings (JSON) command in the Command Palette (⇧⌘P)
+% [2] Find the latex-workshop.latex.recipes setting and move the "xelatexmk" recipe to the top of the list. This will make xelatexmk the default recipe for building LaTeX files.
+%
+%   "latex-workshop.latex.recipes": [
+%     {
+%       "name": "latexmk",
+%       "tools": ["latexmk"]
+%     },
+%     {
+%       "name": "latexmk (xelatex)",
+%       "tools": ["xelatexmk"]
+%     }
+% [3] There is no 3. There is already a "latex-workshop.latex.tools" setting for "latexmk" that uses the -pdf flag and so will use pdfLaTeX. I suppose [3] is for putting xelatexmk back as the default recipe
 \usepackage[pdftex]{graphicx}
 \pdfinfo{
     /Title (Art as Technology)
@@ -11,7 +25,7 @@
 \usepackage[numbers]{natbib}
 % The file isea.sty is the style file for ISEA 2025 proceedings.
 %
-\title{Art as Technology (v1.0.4)}
+\title{Art as Technology (v1.0.5)}
 \author{Kynan Stewart Hughes\\
 Creativity and Cognition Studios\\
 University of Technology Sydney\\
