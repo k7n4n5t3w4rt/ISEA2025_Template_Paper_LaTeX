@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Homebrew) (preloaded format=xelatex 2024.10.29)  25 FEB 2025 08:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  26 FEB 2025 05:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,14 +12,14 @@ Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count184
-\c@section=\count185
-\c@subsection=\count186
-\c@subsubsection=\count187
-\c@paragraph=\count188
-\c@subparagraph=\count189
-\c@figure=\count190
-\c@table=\count191
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -57,44 +57,15 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citeauthor on input line 712.
 LaTeX Info: Redefining \citeyear on input line 735.
-\c@NAT@ctr=\count192
+\c@NAT@ctr=\count196
 )
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:8: Undefined control sequence.
-<recently read> \pdfinfo 
-                         
-l.8 \pdfinfo
-            {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:9: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9     /
-         Title (Art as Technology)
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 31.
-LaTeX Font Info:    No file TUptm.fd. on input line 31.
-
-LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 31.
-
-(/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
-\g__graphics_track_int=\count193
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 25.
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box51
-\g__pdf_backend_object_int=\count194
-\g__pdf_backend_annotation_int=\count195
-\g__pdf_backend_link_int=\count196
 )
 
 LaTeX Warning: Unused global option(s):
@@ -103,513 +74,171 @@ LaTeX Warning: Unused global option(s):
 (./isea.aux)
 \openout1 = `isea.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 31.
- (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
  (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
+\scratchcounter=\count198
 \scratchdimen=\dimen143
 \scratchbox=\box52
-\nofMPsegments=\count198
-\nofMParguments=\count199
+\nofMPsegments=\count199
+\nofMParguments=\count266
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count266
+\MPscratchCnt=\count267
 \MPscratchDim=\dimen144
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
 \everyMPtoPDFconversion=\toks19
+) (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:31: Undefined control sequence.
-<argument> \ifnum \pdfshellescape 
-                                  >0 \edef \Gin@extensions {\Gin@extensions ...
-l.31 \begin{document}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:31: Missing number, treated as zero.
-<to be read again> 
-                   >
-l.31 \begin{document}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-[1
-
-
-
-]
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 39.
-
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <5> on input line 33.
 
-Package natbib Warning: Citation `StengersOrdrOtOfChs1984' on page 2 undefined on input line 54.
-
-
-Package natbib Warning: Citation `SeibtStnfrdEncyclpdPrcssPhlsphy1974' on page 2 undefined on input line 54.
-
-
-Package natbib Warning: Citation `SauvagnarguesArtmchns2016' on page 2 undefined on input line 58.
-
-
-Package natbib Warning: Citation `ZepkeOSullivanDlzCntmprryArt2010' on page 2 undefined on input line 58.
-
-
-Package natbib Warning: Citation `theNatureOfTechnology2009' on page 2 undefined on input line 64.
-
-
-Package natbib Warning: Citation `theNatureOfTechnology2009' on page 2 undefined on input line 64.
-
-
-Package natbib Warning: Citation `theNatureOfTechnology2009' on page 2 undefined on input line 64.
-
-
-Package natbib Warning: Citation `theNatureOfTechnology2009' on page 2 undefined on input line 64.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 68.
-
-
-Package natbib Warning: Citation `FlackCrsGrnng2017' on page 2 undefined on input line 68.
-
-[2
-
-]
-
-Package natbib Warning: Citation `FlackCrsGrnng2017' on page 3 undefined on input line 70.
-
-
-Package natbib Warning: Citation `FlackEtAlTmsclsSymmtryUncrtnty2013' on page 3 undefined on input line 70.
-
-
-Package natbib Warning: Citation `FlackCntxtMdltsSgnlMnng2007' on page 3 undefined on input line 70.
-
-
-Package natbib Warning: Citation `FlackCrsGrnng2017' on page 3 undefined on input line 72.
-
-
-Package natbib Warning: Citation `FlackCntxtMdltsSgnlMnng2007' on page 3 undefined on input line 72.
-
-
-Package natbib Warning: Citation `FlackEtAlTmsclsSymmtryUncrtnty2013' on page 3 undefined on input line 72.
-
-
-Package natbib Warning: Citation `theNatureOfTechnology2009' on page 3 undefined on input line 81.
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 81--82
-[]\TU/ptm/m/it/10 The monetary system makes use of the “phe-
+Underfull \hbox (badness 1158) in paragraph at lines 42--43
+\OT1/ptm/m/n/10 Art, tech-nol-ogy, com-plex-ity, aes-thet-ics, af-fect, in-for-ma-
  []
 
 
-Package natbib Warning: Citation `RanciereMdrnTms2022' on page 3 undefined on input line 90.
+Underfull \hbox (badness 3260) in paragraph at lines 42--43
+\OT1/ptm/m/n/10 tion, craft, sys-tems, emer-gence, mean-ing, con-straints,
+ []
+
+[1{/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-Package natbib Warning: Citation `RancierPltcsOfThAsthtcs2004' on page 3 undefined on input line 92.
 
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 94.
+(Font)              <9> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 94.
-
-Package natbib Warning: Citation `RancierThEmncptdSpcttr2009' on page 3 undefined on input line 94.
-
-
-Package natbib Warning: Citation `ZepkeSblmArt2017' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `DeLandaAssmblgThry2016' on page 3 undefined on input line 102.
-
-
-Package natbib Warning: Citation `RancierThEmncptdSpcttr2009' on page 3 undefined on input line 102.
+(Font)              <6> on input line 88.
+ [2]
+Underfull \hbox (badness 1939) in paragraph at lines 130--131
+ \OT1/ptm/b/n/10 Epiphe-nom-e-nal Ob-jects with In-de-ter-mi-nate Mean-ing
+ []
 
 [3]
-
-Package natbib Warning: Citation `FlackEtAlTmsclsSymmtryUncrtnty2013' on page 4 undefined on input line 110.
-
-
-Package natbib Warning: Citation `FlackCrsGrnng2017' on page 4 undefined on input line 110.
-
-
-Package natbib Warning: Citation `HighmoreBttrAftrTst2010' on page 4 undefined on input line 112.
-
-
-Package natbib Warning: Citation `HighmoreBttrAftrTst2010' on page 4 undefined on input line 112.
-
-
-Package natbib Warning: Citation `FristonThFrEnrgPrncpl2010' on page 4 undefined on input line 114.
-
-
-Package natbib Warning: Citation `DeaconTheSymbolicSpecies1998' on page 4 undefined on input line 114.
-
-
-Package natbib Warning: Citation `DantoEmbdMnngs2007' on page 4 undefined on input line 126.
-
-
-Package natbib Warning: Citation `DeLandaCsltyAndMnng2018' on page 4 undefined on input line 128.
-
-
-Package natbib Warning: Citation `MassumiAUsrsGdTCptlsmAndSchzphrn1992' on page 4 undefined on input line 128.
-
-
-Package natbib Warning: Citation `DeLandaAssmblgThry2016' on page 4 undefined on input line 132.
-
-
-Package natbib Warning: Citation `HoelscherArtAsInfrmtn2021' on page 4 undefined on input line 136.
-
-
-Package natbib Warning: Citation `HoelscherThPtcsOfPhsSpc2014' on page 4 undefined on input line 136.
-
-
-Package natbib Warning: Citation `HoelscherThPtcsOfPhsSpc2014' on page 4 undefined on input line 136.
-
-[4]
-
-Package natbib Warning: Citation `KantCrtqOfJdgmnt' on page 5 undefined on input line 138.
-
-
-Package natbib Warning: Citation `HoelscherThPtcsOfPhsSpc2014' on page 5 undefined on input line 138.
-
-
-Package natbib Warning: Citation `HoelscherThPtcsOfPhsSpc2014' on page 5 undefined on input line 140.
-
-
-Package natbib Warning: Citation `HoelscherThPtcsOfPhsSpc2014' on page 5 undefined on input line 140.
-
-
-Package natbib Warning: Citation `HoelscherArtAsInfrmtn2021' on page 5 undefined on input line 144.
-
-
-Package natbib Warning: Citation `WheelerInfrmtnPhscsQntm2018' on page 5 undefined on input line 148.
-
-
-Package natbib Warning: Citation `HoelscherArtAsInfrmtn2021' on page 5 undefined on input line 148.
-
-
-Package natbib Warning: Citation `HoelscherArtAsInfrmtn2021' on page 5 undefined on input line 148.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-\Gread@pdftex ...\expandafter \relax \pdffilesize 
-                                                  {#1}\relax \expandafter \@...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-<argument> \pdfximage 
-                      \ifnum 0\ifx \Gin@decode \@empty \else 1\fi \ifGin@int...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-<argument> ...ox \@tempboxa =\hbox {\pdfrefximage 
-                                                  \pdflastximage }\def \Gin@...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-<argument> ...\hbox {\pdfrefximage \pdflastximage 
-                                                  }\def \Gin@llx {0}\let \Gi...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-<argument> ...attr@hash \endcsname {\pdfrefximage 
-                                                  \the \pdflastximage }\expa...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-<argument> ... {\pdfrefximage \the \pdflastximage 
-                                                  }\expandafter \xdef \csnam...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: You can't use `end-group character }' after \the.
-<argument> ...{\pdfrefximage \the \pdflastximage }
-                                                  \expandafter \xdef \csname...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-I'm forgetting what you said and using zero instead.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-<argument> ...n@base .png, id=\the \pdflastximage 
-                                                  , \ifx \Gin@page \@empty \...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: You can't use `the character ,' after \the.
-<argument> ...@base .png, id=\the \pdflastximage ,
-                                                   \ifx \Gin@page \@empty \e...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-I'm forgetting what you said and using zero instead.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-\GenericError  ...                                
-                                                    #4  \errhelp \@err@     ...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-\GenericError  ...                                
-                                                  \let \@err@               ...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-\GenericError  ...                                
-                                                  \@empty \def \MessageBreak...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-\GenericError  ...                                
-                                                     \endgroup 
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Undefined control sequence.
-\Gscale@div ...}\@eha \dimen@ #2\fi \edef \@tempd 
-                                                  {\the \dimen@ }\setlength ...
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Illegal parameter number in definition of \robert-morris-cubes.png image.
-<to be read again> 
-                   1
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Illegal parameter number in definition of \robert-morris-cubes.png image.
-<to be read again> 
-                   1
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Argument of \@providesfile has an extra }.
-<inserted text> 
-                \par 
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\Gin@base \Gin@ext }
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:153: Paragraph ended before \@providesfile was complete.
-<to be read again> 
-                   \par 
-l.153 ...cs[width=3.31in]{robert-morris-cubes.png}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{[}\def \@tempb {\@providesfile {\Gin@base \Gin@ext }[]}\ifx \@tempa \ETC.
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:157: Paragraph ended before \@tempa was complete.
-<to be read again> 
-                   \par 
-l.157 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Illegal parameter number in definition of \robert-morris-cubes.png image.
-<to be read again> 
-                   1
-l.160     \begin{quote}
-                       
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Illegal parameter number in definition of \robert-morris-cubes.png image.
-<to be read again> 
-                   1
-l.160     \begin{quote}
-                       
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Undefined control sequence.
-\list ... \@listdepth \endcsname \def \@itemlabel 
-                                                  {#1}\let \makelabel \@mkla...
-l.160     \begin{quote}
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Undefined control sequence.
-\GenericError  ...                                
-                                                    #4  \errhelp \@err@     ...
-l.160     \begin{quote}
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Undefined control sequence.
-\GenericError  ...                                
-                                                  \let \@err@               ...
-l.160     \begin{quote}
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Undefined control sequence.
-\GenericError  ...                                
-                                                  \@empty \def \MessageBreak...
-l.160     \begin{quote}
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex:160: Undefined control sequence.
-\GenericError  ...                                
-                                                     \endgroup 
-l.160     \begin{quote}
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-)
-! Incomplete \iffalse; all text was ignored after line 160.
-<inserted text> 
-                \fi 
-<*> ...w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex
-                                                  
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
-! Emergency stop.
-<*> ...w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex
-                                                  
-*** (job aborted, no legal \end found)
-
- 
+<robert-morris-cubes.png, id=15, 1030.85126pt x 475.7775pt>
+File: robert-morris-cubes.png Graphic file (type png)
+<use robert-morris-cubes.png>
+Package pdftex.def Info: robert-morris-cubes.png  used on input line 147.
+(pdftex.def)             Requested size: 239.21352pt x 110.40659pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/ptm/m/n/10 https://www.theextravagant.com/lifestyle/art-culture/when-
+ []
+
+<snow-shovel.png, id=17, 1437.37pt x 748.7975pt>
+File: snow-shovel.png Graphic file (type png)
+<use snow-shovel.png>
+Package pdftex.def Info: snow-shovel.png  used on input line 159.
+(pdftex.def)             Requested size: 239.21352pt x 124.60884pt.
+
+Underfull \hbox (badness 1048) in paragraph at lines 174--175
+ \OT1/ptm/b/n/10 En-abling Con-straints \OT1/ptm/m/n/10 Ali-cia Juar-rero's con-cept of \OT1/ptm/m/it/10 en-
+ []
+
+[4 <./robert-morris-cubes.png> <./snow-shovel.png>]
+<bubble-sort.png, id=23, 827.09pt x 257.96375pt>
+File: bubble-sort.png Graphic file (type png)
+<use bubble-sort.png>
+Package pdftex.def Info: bubble-sort.png  used on input line 189.
+(pdftex.def)             Requested size: 239.21352pt x 74.60681pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 190.
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [5 <./bubble-sort.png>]
+<flow-attractor.png, id=29, 1441.385pt x 628.3475pt>
+File: flow-attractor.png Graphic file (type png)
+<use flow-attractor.png>
+Package pdftex.def Info: flow-attractor.png  used on input line 217.
+(pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
+ [6 <./flow-attractor.png>]
+Underfull \hbox (badness 2205) in paragraph at lines 273--274
+[]\OT1/ptm/m/n/10 Techne is evo-lu-tion-ary and pre{human. In-stead of
+ []
+
+(./isea.bbl [7]
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+\OT1/ptm/m/n/10 ABC News https://www.abc.net.au/news/2021-03-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+\OT1/ptm/m/n/10 23/aboriginal-outrage-dark-mofo-union-flag-prompts-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 80--84
+[]\OT1/ptm/m/n/10 Fusco, C.  2004.  Ques-tion-ing the Frame.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+\OT1/ptm/m/n/10 http://inthesetimes.com/article/1750/questioning-the-
+ []
+
+) [8] (./isea.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 1696 strings out of 474773
- 28643 string characters out of 5747932
- 1945839 words of memory out of 5000000
- 23873 multiletter control sequences out of 15000+600000
- 559940 words of font info for 48 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 57i,11n,65p,1058b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on isea.xdv (4 pages, 165180 bytes).
+ 2534 strings out of 474116
+ 45850 string characters out of 5732612
+ 1946187 words of memory out of 5000000
+ 24863 multiletter control sequences out of 15000+600000
+ 577377 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,11n,69p,1097b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on isea.pdf (8 pages, 7321415 bytes).
+PDF statistics:
+ 61 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
