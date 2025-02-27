@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex isea"] 1740435581.31647 "isea.aux" "isea.bbl" "isea" 1740509053.03103 0
-  "./isea.bib" 1732864394.88402 436622 ec2c228180b9e196cdd62af99b38eee2 ""
+["bibtex isea"] 1740645479.36626 "isea.aux" "isea.bbl" "isea" 1740645480.73957 0
+  "./isea.bib" 1740644986.31892 449967 00f4ba5bac0b22226ccac652c9c4915b ""
   "./isea.bst" 1730214740 21873 80a4fb31265122699a926083e20a98d2 ""
-  "isea.aux" 1740509052.88056 5030 d4b3e64e145e7080e7668041915147d2 "pdflatex"
+  "isea.aux" 1740645480.59524 4985 465261143cdba815eda017d3dcc74878 "pdflatex"
   (generated)
   "isea.bbl"
   "isea.blg"
   (rewritten before read)
-["pdflatex"] 1740509051.64323 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1740509053.03116 0
-  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1740509051.42711 47226 249ac690e4f7d34879cd45fdfd0a83f0 ""
+["pdflatex"] 1740645479.45781 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" "isea.pdf" "isea" 1740645480.7397 0
+  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex" 1740645476.3695 47321 1298170ec955c05823c16ff780c78627 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -66,10 +66,10 @@
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221878 83314ecb9b2818e5586c154833f52511 ""
   "bubble-sort.png" 1732353086.88975 1053898 2588816ceb9ded0e845417a193711d8d ""
   "flow-attractor.png" 1732351789.03774 3053632 818a347c3c821f27487d6d8c04049116 ""
-  "isea.aux" 1740509052.88056 5030 d4b3e64e145e7080e7668041915147d2 "pdflatex"
-  "isea.bbl" 1740435581.4333 8684 1b7802767d6ecc1e365287244c4eb000 "bibtex isea"
+  "isea.aux" 1740645480.59524 4985 465261143cdba815eda017d3dcc74878 "pdflatex"
+  "isea.bbl" 1740645479.45613 7308 2a136e5d7e6238815a3666efc54a3f3f "bibtex isea"
   "isea.sty" 1730214740 13713 eeab261e94544bd36e0265d94d3dcf2b ""
-  "isea.tex" 1740509051.42711 47226 249ac690e4f7d34879cd45fdfd0a83f0 ""
+  "isea.tex" 1740645476.3695 47321 1298170ec955c05823c16ff780c78627 ""
   "robert-morris-cubes.png" 1732423414.32768 1402501 b8f292f326cf4a8d4f91f86c933f005e ""
   "snow-shovel.png" 1732423555.02957 1025171 e4cdb0a7583134808f5eaa3c60f94c6a ""
   (generated)

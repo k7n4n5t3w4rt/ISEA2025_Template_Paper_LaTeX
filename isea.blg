@@ -3,46 +3,102 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: isea.aux
 The style file: isea.bst
 Database file #1: isea.bib
+Warning--entry type for "questioningTheFrame2004" isn't style-file defined
+--line 3881 of file isea.bib
+Warning--entry type for "ZepkeOSullivanDlzCntmprryArt2010" isn't style-file defined
+--line 7083 of file isea.bib
+Warning--entry type for "SeibtStnfrdEncyclpdPrcssPhlsphy1974" isn't style-file defined
+--line 8423 of file isea.bib
+Warning--entry type for "DrkMfBld2021" isn't style-file defined
+--line 9174 of file isea.bib
+Warning--to sort, need author or key in ZepkeOSullivanDlzCntmprryArt2010
+Warning--empty year in theNatureOfTechnology2009
+Warning--empty year in CilliersRichardsonCmplxtyScnc2001
+Warning--empty journal in CilliersRichardsonCmplxtyScnc2001
+Warning--empty year in DrkMfBld2021
+Warning--empty year in DantoEmbdMnngs2007
+Warning--empty journal in DantoEmbdMnngs2007
+Warning--empty year in DeaconTheSymbolicSpecies1998
+Warning--empty year in DeLandaAssmblgThry2016
+Warning--empty year in DeLandaCsltyAndMnng2018
+Warning--empty year in DeleuzeNtschAndPhlsphy2006
+Warning--empty year in FlackCntxtMdltsSgnlMnng2007
+Warning--empty journal in FlackCntxtMdltsSgnlMnng2007
+Warning--empty year in FlackEtAlTmsclsSymmtryUncrtnty2013
+Warning--empty journal in FlackEtAlTmsclsSymmtryUncrtnty2013
+Warning--empty year in FlackCrsGrnng2017
+Warning--empty journal in FlackCrsGrnng2017
+Warning--empty year in FristonThFrEnrgPrncpl2010
+Warning--empty journal in FristonThFrEnrgPrncpl2010
+Warning--empty year in questioningTheFrame2004
+Warning--empty year in GellThTchnlgyOfEnchntmnt1992
+Warning--empty journal in GellThTchnlgyOfEnchntmnt1992
+Warning--empty year in GuattariChsmss1995
+Warning--empty year in HeideggerThQstnCncrngTchnlgy1954
+Warning--empty journal in HeideggerThQstnCncrngTchnlgy1954
+Warning--empty year in HighmoreBttrAftrTst2010
+Warning--empty year in HoelscherThPtcsOfPhsSpc2014
 Warning--empty note in HoelscherThPtcsOfPhsSpc2014
-You've used 35 entries,
+Warning--empty year in HoelscherArtAsInfrmtn2021
+Warning--empty year in JuarreroCsltyAsCnstrnt1998
+Warning--empty year in JuarreroThSlfOrgnstnOfIntntnlActn2004
+Warning--empty journal in JuarreroThSlfOrgnstnOfIntntnlActn2004
+Warning--empty year in KantCrtqOfJdgmnt
+Warning--empty year in MassumiPrblsFrThVrtl2002
+Warning--empty year in MassumiAUsrsGdTCptlsmAndSchzphrn1992
+Warning--empty year in StengersOrdrOtOfChs1984
+Warning--empty year in RancierThEmncptdSpcttr2009
+Warning--empty year in RanciereMdrnTms2022
+Warning--empty year in RancierPltcsOfThAsthtcs2004
+Warning--empty year in SauvagnarguesArtmchns2016
+Warning--empty year in SeibtStnfrdEncyclpdPrcssPhlsphy1974
+Warning--empty year in SimondonOnThMdOfExstncOfTechnclObjcts1980
+Warning--empty year in TatarkiewiczWhtIsArt1971
+Warning--empty journal in TatarkiewiczWhtIsArt1971
+Warning--empty year in beyondLocativeMedia2006
+Warning--empty journal in beyondLocativeMedia2006
+Warning--empty year in WheelerInfrmtnPhscsQntm2018
+Warning--empty year in ZepkeOSullivanDlzCntmprryArt2010
+Warning--empty year in ZepkeSblmArt2017
+You've used 36 entries,
             2568 wiz_defined-function locations,
-            801 strings with 10482 characters,
-and the built_in function-call counts, 11369 in all, are:
-= -- 1203
-> -- 296
+            769 strings with 9862 characters,
+and the built_in function-call counts, 11401 in all, are:
+= -- 1152
+> -- 290
 < -- 4
-+ -- 96
-- -- 87
-* -- 773
-:= -- 1889
-add.period$ -- 188
-call.type$ -- 35
-change.case$ -- 167
-chr.to.int$ -- 35
-cite$ -- 36
-duplicate$ -- 518
-empty$ -- 948
-format.name$ -- 127
-if$ -- 2365
-int.to.chr$ -- 1
++ -- 101
+- -- 85
+* -- 841
+:= -- 1833
+add.period$ -- 155
+call.type$ -- 36
+change.case$ -- 171
+chr.to.int$ -- 30
+cite$ -- 86
+duplicate$ -- 527
+empty$ -- 973
+format.name$ -- 124
+if$ -- 2334
+int.to.chr$ -- 7
 int.to.str$ -- 0
 missing$ -- 47
-newline$ -- 219
-num.names$ -- 108
-pop$ -- 193
+newline$ -- 188
+num.names$ -- 107
+pop$ -- 359
 preamble$ -- 1
-purify$ -- 218
+purify$ -- 222
 quote$ -- 0
-skip$ -- 405
+skip$ -- 308
 stack$ -- 0
-substring$ -- 469
-swap$ -- 103
+substring$ -- 495
+swap$ -- 94
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 212
-warning$ -- 1
-while$ -- 96
-width$ -- 39
-write$ -- 486
-(There was 1 warning)
+type$ -- 224
+warning$ -- 49
+while$ -- 98
+width$ -- 41
+write$ -- 415
+(There were 53 warnings)
