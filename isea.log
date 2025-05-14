@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  27 FEB 2025 19:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  15 MAY 2025 07:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex
-(/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_Template_Paper_LaTeX/isea.tex
+**/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_ArtAsTechnology/isea.tex
+(/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_ArtAsTechnology/isea.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/article.cls
@@ -151,56 +151,18 @@ Underfull \hbox (badness 3260) in paragraph at lines 57--58
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 103.
+(Font)              <9> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 103.
- [2]
-Underfull \hbox (badness 1939) in paragraph at lines 145--146
- \OT1/ptm/b/n/10 Epiphe-nom-e-nal Ob-jects with In-de-ter-mi-nate Mean-ing
- []
-
-[3]
-<robert-morris-cubes.png, id=15, 1030.85126pt x 475.7775pt>
-File: robert-morris-cubes.png Graphic file (type png)
-<use robert-morris-cubes.png>
-Package pdftex.def Info: robert-morris-cubes.png  used on input line 162.
-(pdftex.def)             Requested size: 239.21352pt x 110.40659pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
-\OT1/ptm/m/n/10 https://www.theextravagant.com/lifestyle/art-culture/when-
- []
-
-<snow-shovel.png, id=17, 1437.37pt x 748.7975pt>
-File: snow-shovel.png Graphic file (type png)
-<use snow-shovel.png>
-Package pdftex.def Info: snow-shovel.png  used on input line 174.
-(pdftex.def)             Requested size: 239.21352pt x 124.60884pt.
-
-Underfull \hbox (badness 1048) in paragraph at lines 189--190
- \OT1/ptm/b/n/10 En-abling Con-straints \OT1/ptm/m/n/10 Ali-cia Juar-rero's con-cept of \OT1/ptm/m/it/10 en-
- []
-
-[4 <./robert-morris-cubes.png> <./snow-shovel.png>]
-<bubble-sort.png, id=23, 827.09pt x 257.96375pt>
-File: bubble-sort.png Graphic file (type png)
-<use bubble-sort.png>
-Package pdftex.def Info: bubble-sort.png  used on input line 204.
-(pdftex.def)             Requested size: 239.21352pt x 74.60681pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 205.
- (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [5 <./bubble-sort.png>]
-<flow-attractor.png, id=29, 1441.385pt x 628.3475pt>
+(Font)              <6> on input line 105.
+<flow-attractor.png, id=9, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
-Package pdftex.def Info: flow-attractor.png  used on input line 232.
+Package pdftex.def Info: flow-attractor.png  used on input line 134.
 (pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
- [6 <./flow-attractor.png>]
-Underfull \hbox (badness 2205) in paragraph at lines 288--289
-[]\OT1/ptm/m/n/10 Techne is evo-lu-tion-ary and pre{human. In-stead of
- []
-
-(./isea.bbl [7]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 135.
+ (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2 <./flow-attractor.png>] [3] (./isea.bbl
 Underfull \hbox (badness 2951) in paragraph at lines 9--13
 []\OT1/ptm/m/n/10 Cilliers, P., and Richard-son, K.  What is com-
  []
@@ -236,39 +198,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 []\OT1/ptm/m/n/10 Fusco, C.  Ques-tion-ing the frame.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 \OT1/ptm/m/n/10 http://inthesetimes.com/article/1750/questioning-the-
  []
 
-
-Underfull \hbox (badness 1997) in paragraph at lines 125--128
+[4]
+Underfull \hbox (badness 1997) in paragraph at lines 98--101
 []\OT1/ptm/m/n/10 Massumi, B.  \OT1/ptm/m/it/10 A user's guide to cap-i-tal-ism and
  []
 
-) [8] (./isea.aux)
+) [5
+
+] (./isea.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2537 strings out of 474116
- 45958 string characters out of 5732612
- 1946187 words of memory out of 5000000
- 24866 multiletter control sequences out of 15000+600000
- 577377 words of font info for 65 fonts, out of 8000000 for 9000
+ 2493 strings out of 474116
+ 44568 string characters out of 5732612
+ 1945187 words of memory out of 5000000
+ 24821 multiletter control sequences out of 15000+600000
+ 579510 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,1097b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,11n,69p,965b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (8 pages, 7319932 bytes).
+Output written on isea.pdf (5 pages, 3660034 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

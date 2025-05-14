@@ -7,8 +7,6 @@ Warning--entry type for "questioningTheFrame2004" isn't style-file defined
 --line 3881 of file isea.bib
 Warning--entry type for "ZepkeOSullivanDlzCntmprryArt2010" isn't style-file defined
 --line 7083 of file isea.bib
-Warning--entry type for "SeibtStnfrdEncyclpdPrcssPhlsphy1974" isn't style-file defined
---line 8423 of file isea.bib
 Warning--entry type for "DrkMfBld2021" isn't style-file defined
 --line 9174 of file isea.bib
 Warning--to sort, need author or key in ZepkeOSullivanDlzCntmprryArt2010
@@ -19,11 +17,8 @@ Warning--empty year in DrkMfBld2021
 Warning--empty year in DantoEmbdMnngs2007
 Warning--empty journal in DantoEmbdMnngs2007
 Warning--empty year in DeaconTheSymbolicSpecies1998
-Warning--empty year in DeLandaAssmblgThry2016
 Warning--empty year in DeLandaCsltyAndMnng2018
 Warning--empty year in DeleuzeNtschAndPhlsphy2006
-Warning--empty year in FlackCntxtMdltsSgnlMnng2007
-Warning--empty journal in FlackCntxtMdltsSgnlMnng2007
 Warning--empty year in FlackEtAlTmsclsSymmtryUncrtnty2013
 Warning--empty journal in FlackEtAlTmsclsSymmtryUncrtnty2013
 Warning--empty year in FlackCrsGrnng2017
@@ -36,69 +31,64 @@ Warning--empty journal in GellThTchnlgyOfEnchntmnt1992
 Warning--empty year in GuattariChsmss1995
 Warning--empty year in HeideggerThQstnCncrngTchnlgy1954
 Warning--empty journal in HeideggerThQstnCncrngTchnlgy1954
-Warning--empty year in HighmoreBttrAftrTst2010
 Warning--empty year in HoelscherThPtcsOfPhsSpc2014
 Warning--empty note in HoelscherThPtcsOfPhsSpc2014
-Warning--empty year in HoelscherArtAsInfrmtn2021
-Warning--empty year in JuarreroCsltyAsCnstrnt1998
-Warning--empty year in JuarreroThSlfOrgnstnOfIntntnlActn2004
-Warning--empty journal in JuarreroThSlfOrgnstnOfIntntnlActn2004
 Warning--empty year in KantCrtqOfJdgmnt
+Warning--empty year in MassumiTheAtnmyOfAffct1995
+Warning--empty journal in MassumiTheAtnmyOfAffct1995
+Warning--there's a number but no volume in MassumiTheAtnmyOfAffct1995
 Warning--empty year in MassumiPrblsFrThVrtl2002
 Warning--empty year in MassumiAUsrsGdTCptlsmAndSchzphrn1992
-Warning--empty year in StengersOrdrOtOfChs1984
 Warning--empty year in RancierThEmncptdSpcttr2009
 Warning--empty year in RanciereMdrnTms2022
 Warning--empty year in RancierPltcsOfThAsthtcs2004
 Warning--empty year in SauvagnarguesArtmchns2016
-Warning--empty year in SeibtStnfrdEncyclpdPrcssPhlsphy1974
 Warning--empty year in SimondonOnThMdOfExstncOfTechnclObjcts1980
 Warning--empty year in TatarkiewiczWhtIsArt1971
 Warning--empty journal in TatarkiewiczWhtIsArt1971
 Warning--empty year in beyondLocativeMedia2006
 Warning--empty journal in beyondLocativeMedia2006
-Warning--empty year in WheelerInfrmtnPhscsQntm2018
 Warning--empty year in ZepkeOSullivanDlzCntmprryArt2010
 Warning--empty year in ZepkeSblmArt2017
-You've used 36 entries,
+You've used 28 entries,
             2568 wiz_defined-function locations,
-            769 strings with 9862 characters,
-and the built_in function-call counts, 11401 in all, are:
-= -- 1152
-> -- 290
-< -- 4
-+ -- 101
-- -- 85
-* -- 841
-:= -- 1833
-add.period$ -- 155
-call.type$ -- 36
-change.case$ -- 171
-chr.to.int$ -- 30
-cite$ -- 86
-duplicate$ -- 527
-empty$ -- 973
-format.name$ -- 124
-if$ -- 2334
-int.to.chr$ -- 7
+            720 strings with 8604 characters,
+and the built_in function-call counts, 8392 in all, are:
+= -- 831
+> -- 222
+< -- 1
++ -- 79
+- -- 65
+* -- 635
+:= -- 1377
+add.period$ -- 117
+call.type$ -- 28
+change.case$ -- 132
+chr.to.int$ -- 24
+cite$ -- 70
+duplicate$ -- 383
+empty$ -- 710
+format.name$ -- 94
+if$ -- 1679
+int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 47
-newline$ -- 188
-num.names$ -- 107
-pop$ -- 359
+missing$ -- 37
+newline$ -- 145
+num.names$ -- 83
+pop$ -- 274
 preamble$ -- 1
-purify$ -- 222
+purify$ -- 172
 quote$ -- 0
-skip$ -- 308
+skip$ -- 217
 stack$ -- 0
-substring$ -- 495
-swap$ -- 94
-text.length$ -- 4
+substring$ -- 325
+swap$ -- 52
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 224
-warning$ -- 49
-while$ -- 98
-width$ -- 41
-write$ -- 415
-(There were 53 warnings)
+type$ -- 172
+warning$ -- 41
+while$ -- 71
+width$ -- 31
+write$ -- 318
+(There were 44 warnings)

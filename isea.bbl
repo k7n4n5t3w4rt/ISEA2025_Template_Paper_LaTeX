@@ -27,12 +27,7 @@ Deacon, T.~W.
 \newblock {\em The symbolic species: The co-evolution of language and the brain}.
 \newblock {WW} Norton \& Company.
 
-\bibitem[\protect\citeauthoryear{{DeLanda}}{a}]{DeLandaAssmblgThry2016}
-{DeLanda}, M.
-\newblock {\em Assemblage theory}.
-\newblock Edinburgh University Press.
-
-\bibitem[\protect\citeauthoryear{{DeLanda}}{b}]{DeLandaCsltyAndMnng2018}
+\bibitem[\protect\citeauthoryear{{DeLanda}}{}]{DeLandaCsltyAndMnng2018}
 {DeLanda}, M.
 \newblock Causality and meaning.
 \newblock In Voyatzaki, M., ed., {\em Architectural materialisms: Nonhuman creativity}. Edinburgh University Press Edinburgh, Scotland.
@@ -41,12 +36,6 @@ Deacon, T.~W.
 Deleuze, G.
 \newblock {\em Nietzsche and Philosophy}.
 \newblock European perspectives. Columbia University Press.
-
-\bibitem[\protect\citeauthoryear{Flack and de Waal}{}]{FlackCntxtMdltsSgnlMnng2007}
-Flack, J.~C., and de~Waal, F.
-\newblock Context modulates signal meaning in primate communication.
-\newblock 104(5):1581--1586.
-\newblock Publisher: National Acad Sciences.
 
 \bibitem[\protect\citeauthoryear{Flack \bgroup et al.\egroup }{}]{FlackEtAlTmsclsSymmtryUncrtnty2013}
 Flack, J.~C.; Erwin, D.; Elliot, T.; and Krakauer, D.~C.
@@ -85,51 +74,30 @@ Heidegger, M.
 \newblock The question concerning technology.
 \newblock 99:113.
 
-\bibitem[\protect\citeauthoryear{Highmore}{}]{HighmoreBttrAftrTst2010}
-Highmore, B.
-\newblock Bitter after taste: Affect, food, and social aesthetics.
-\newblock In {\em The affect theory reader}. Duke University Press.
-\newblock  118--137.
-
-\bibitem[\protect\citeauthoryear{Hoelscher}{a}]{HoelscherThPtcsOfPhsSpc2014}
+\bibitem[\protect\citeauthoryear{Hoelscher}{}]{HoelscherThPtcsOfPhsSpc2014}
 Hoelscher, J.
 \newblock The poetics of phase space: The open artwork at the edge of chaos.
-
-\bibitem[\protect\citeauthoryear{Hoelscher}{b}]{HoelscherArtAsInfrmtn2021}
-Hoelscher, J.~A.
-\newblock {\em Art as Information Ecology: Artworks, Artworlds, and Complex Systems Aesthetics}.
-\newblock Duke University Press.
-
-\bibitem[\protect\citeauthoryear{Juarrero}{a}]{JuarreroCsltyAsCnstrnt1998}
-Juarrero, A.
-\newblock Causality as constraint.
-\newblock In {\em Evolutionary systems}. Springer.
-\newblock  233--242.
-
-\bibitem[\protect\citeauthoryear{Juarrero}{b}]{JuarreroThSlfOrgnstnOfIntntnlActn2004}
-Juarrero, A.
-\newblock The self-organization of intentional action.
-\newblock 58(228):189--204.
 
 \bibitem[\protect\citeauthoryear{Kant}{}]{KantCrtqOfJdgmnt}
 Kant, I.
 \newblock {\em Critique of Judgement}.
 \newblock Oxford University Press.
 
-\bibitem[\protect\citeauthoryear{Massumi}{a}]{MassumiPrblsFrThVrtl2002}
+\bibitem[\protect\citeauthoryear{Massumi}{a}]{MassumiTheAtnmyOfAffct1995}
+Massumi, B.
+\newblock The autonomy of affect.
+\newblock (31):83--109.
+\newblock Publisher: {JSTOR}.
+
+\bibitem[\protect\citeauthoryear{Massumi}{b}]{MassumiPrblsFrThVrtl2002}
 Massumi, B.
 \newblock {\em Parables for the Virtual: Movement, Affect, Sensation}.
 \newblock Post-contemporary interventions. Duke University Press.
 
-\bibitem[\protect\citeauthoryear{Massumi}{b}]{MassumiAUsrsGdTCptlsmAndSchzphrn1992}
+\bibitem[\protect\citeauthoryear{Massumi}{c}]{MassumiAUsrsGdTCptlsmAndSchzphrn1992}
 Massumi, B.
 \newblock {\em A user's guide to capitalism and schizophrenia: Deviations from Deleuze and Guattari}.
 \newblock {MIT} press.
-
-\bibitem[\protect\citeauthoryear{Prigogine and Stengers}{}]{StengersOrdrOtOfChs1984}
-Prigogine, I., and Stengers, I.
-\newblock {\em Order out of chaos: Man's new dialogue with nature}.
-\newblock Verso Books.
 
 \bibitem[\protect\citeauthoryear{Rancière}{a}]{RancierThEmncptdSpcttr2009}
 Rancière, J.
@@ -151,11 +119,6 @@ Sauvagnargues, A.
 \newblock {\em Artmachines}.
 \newblock Edinburgh University Press.
 
-\bibitem[\protect\citeauthoryear{Seibt}{}]{SeibtStnfrdEncyclpdPrcssPhlsphy1974}
-Seibt, J.
-\newblock Process philosophy.
-\newblock {ISSN}: 1095-5054.
-
 \bibitem[\protect\citeauthoryear{Simondon}{}]{SimondonOnThMdOfExstncOfTechnclObjcts1980}
 Simondon, G.
 \newblock {\em On the Mode of Existence of Technical Objects}.
@@ -170,12 +133,6 @@ Tatarkiewicz, W.
 Tuters, M., and Varnelis, K.
 \newblock Beyond locative media: Giving shape to the internet of things.
 \newblock 39(4):357--363.
-
-\bibitem[\protect\citeauthoryear{Wheeler}{}]{WheelerInfrmtnPhscsQntm2018}
-Wheeler, J.~A.
-\newblock Information, physics, quantum: The search for links.
-\newblock In {\em Feynman and Computation}. {CRC} Press.
-\newblock  309--336.
 
 \bibitem[\protect\citeauthoryear{Zep}{}]{ZepkeOSullivanDlzCntmprryArt2010}
 Deleuze and contemporary art.
