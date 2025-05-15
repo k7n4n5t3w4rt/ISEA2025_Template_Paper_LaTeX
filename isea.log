@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  15 MAY 2025 07:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  16 MAY 2025 05:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -145,15 +145,15 @@ Underfull \hbox (badness 3260) in paragraph at lines 57--58
 \OT1/ptm/m/n/10 tion, craft, sys-tems, emer-gence, mean-ing, con-straints,
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 81.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 81.
 [1{/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 
 ]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 105.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 105.
 <flow-attractor.png, id=9, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
@@ -162,57 +162,46 @@ Package pdftex.def Info: flow-attractor.png  used on input line 134.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 135.
  (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [2 <./flow-attractor.png>] [3] (./isea.bbl
-Underfull \hbox (badness 2951) in paragraph at lines 9--13
-[]\OT1/ptm/m/n/10 Cilliers, P., and Richard-son, K.  What is com-
- []
+)
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-\OT1/ptm/m/n/10 plex-ity sci-ence? a view from dif-fer-ent di-rec-
- []
-
-
-Underfull \hbox (badness 7203) in paragraph at lines 9--13
-\OT1/ptm/m/n/10 tions.  3(1).  Avail-able at is-sue home page:
- []
-
-
-Underfull \hbox (badness 2818) in paragraph at lines 15--18
+[2] [3 <./flow-attractor.png>] (./isea.bbl
+Underfull \hbox (badness 2818) in paragraph at lines 9--12
 []\OT1/ptm/m/n/10 Cooper-Douglas, E.  Dark mofo can-cels plan to
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 15--18
+Underfull \hbox (badness 2961) in paragraph at lines 9--12
 \OT1/ptm/m/n/10 soak british flag in in-dige-nous blood.  Pub-lished:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--18
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 \OT1/ptm/m/n/10 ABC News https://www.abc.net.au/news/2021-03-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--18
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 \OT1/ptm/m/n/10 23/aboriginal-outrage-dark-mofo-union-flag-prompts-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
 []\OT1/ptm/m/n/10 Fusco, C.  Ques-tion-ing the frame.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
 \OT1/ptm/m/n/10 http://inthesetimes.com/article/1750/questioning-the-
  []
 
-[4]
-Underfull \hbox (badness 1997) in paragraph at lines 98--101
+
+Underfull \hbox (badness 1997) in paragraph at lines 93--96
 []\OT1/ptm/m/n/10 Massumi, B.  \OT1/ptm/m/it/10 A user's guide to cap-i-tal-ism and
  []
 
-) [5
+) [4] [5
 
 ] (./isea.aux)
  ***********
@@ -221,15 +210,15 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2493 strings out of 474116
- 44568 string characters out of 5732612
- 1945187 words of memory out of 5000000
- 24821 multiletter control sequences out of 15000+600000
+ 2487 strings out of 474116
+ 44340 string characters out of 5732612
+ 1946187 words of memory out of 5000000
+ 24815 multiletter control sequences out of 15000+600000
  579510 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,11n,69p,965b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (5 pages, 3660034 bytes).
+Output written on isea.pdf (5 pages, 3657559 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream

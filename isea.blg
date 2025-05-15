@@ -11,16 +11,12 @@ Warning--entry type for "DrkMfBld2021" isn't style-file defined
 --line 9174 of file isea.bib
 Warning--to sort, need author or key in ZepkeOSullivanDlzCntmprryArt2010
 Warning--empty year in theNatureOfTechnology2009
-Warning--empty year in CilliersRichardsonCmplxtyScnc2001
-Warning--empty journal in CilliersRichardsonCmplxtyScnc2001
 Warning--empty year in DrkMfBld2021
 Warning--empty year in DantoEmbdMnngs2007
 Warning--empty journal in DantoEmbdMnngs2007
 Warning--empty year in DeaconTheSymbolicSpecies1998
 Warning--empty year in DeLandaCsltyAndMnng2018
 Warning--empty year in DeleuzeNtschAndPhlsphy2006
-Warning--empty year in FlackEtAlTmsclsSymmtryUncrtnty2013
-Warning--empty journal in FlackEtAlTmsclsSymmtryUncrtnty2013
 Warning--empty year in FlackCrsGrnng2017
 Warning--empty journal in FlackCrsGrnng2017
 Warning--empty year in FristonThFrEnrgPrncpl2010
@@ -31,6 +27,7 @@ Warning--empty journal in GellThTchnlgyOfEnchntmnt1992
 Warning--empty year in GuattariChsmss1995
 Warning--empty year in HeideggerThQstnCncrngTchnlgy1954
 Warning--empty journal in HeideggerThQstnCncrngTchnlgy1954
+Warning--empty year in HighmoreBttrAftrTst2010
 Warning--empty year in HoelscherThPtcsOfPhsSpc2014
 Warning--empty note in HoelscherThPtcsOfPhsSpc2014
 Warning--empty year in KantCrtqOfJdgmnt
@@ -50,45 +47,45 @@ Warning--empty year in beyondLocativeMedia2006
 Warning--empty journal in beyondLocativeMedia2006
 Warning--empty year in ZepkeOSullivanDlzCntmprryArt2010
 Warning--empty year in ZepkeSblmArt2017
-You've used 28 entries,
+You've used 27 entries,
             2568 wiz_defined-function locations,
-            720 strings with 8604 characters,
-and the built_in function-call counts, 8392 in all, are:
-= -- 831
-> -- 222
+            716 strings with 8266 characters,
+and the built_in function-call counts, 8059 in all, are:
+= -- 802
+> -- 193
 < -- 1
-+ -- 79
-- -- 65
-* -- 635
-:= -- 1377
-add.period$ -- 117
-call.type$ -- 28
-change.case$ -- 132
-chr.to.int$ -- 24
-cite$ -- 70
-duplicate$ -- 383
-empty$ -- 710
-format.name$ -- 94
-if$ -- 1679
++ -- 69
+- -- 55
+* -- 597
+:= -- 1313
+add.period$ -- 114
+call.type$ -- 27
+change.case$ -- 123
+chr.to.int$ -- 23
+cite$ -- 66
+duplicate$ -- 375
+empty$ -- 703
+format.name$ -- 82
+if$ -- 1627
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 37
-newline$ -- 145
-num.names$ -- 83
-pop$ -- 274
+missing$ -- 36
+newline$ -- 140
+num.names$ -- 80
+pop$ -- 263
 preamble$ -- 1
-purify$ -- 172
+purify$ -- 162
 quote$ -- 0
-skip$ -- 217
+skip$ -- 211
 stack$ -- 0
-substring$ -- 325
-swap$ -- 52
+substring$ -- 328
+swap$ -- 54
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 172
-warning$ -- 41
-while$ -- 71
-width$ -- 31
-write$ -- 318
-(There were 44 warnings)
+type$ -- 164
+warning$ -- 38
+while$ -- 69
+width$ -- 29
+write$ -- 308
+(There were 41 warnings)

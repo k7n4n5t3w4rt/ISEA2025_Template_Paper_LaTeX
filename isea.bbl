@@ -5,12 +5,6 @@ Arthur, W.~B.
 \newblock {\em The nature of technology : what it is and how it evolves}.
 \newblock Allen Lane.
 
-\bibitem[\protect\citeauthoryear{Cilliers and Richardson}{}]{CilliersRichardsonCmplxtyScnc2001}
-Cilliers, P., and Richardson, K.
-\newblock What is complexity science? a view from different directions.
-\newblock 3(1).
-\newblock Available at issue home page: https://journal.emergentpublications.com/Issue/3/1.
-
 \bibitem[\protect\citeauthoryear{Cooper-Douglas}{}]{DrkMfBld2021}
 Cooper-Douglas, E.
 \newblock Dark mofo cancels plan to soak british flag in indigenous blood.
@@ -36,11 +30,6 @@ Deacon, T.~W.
 Deleuze, G.
 \newblock {\em Nietzsche and Philosophy}.
 \newblock European perspectives. Columbia University Press.
-
-\bibitem[\protect\citeauthoryear{Flack \bgroup et al.\egroup }{}]{FlackEtAlTmsclsSymmtryUncrtnty2013}
-Flack, J.~C.; Erwin, D.; Elliot, T.; and Krakauer, D.~C.
-\newblock Timescales, symmetry, and uncertainty reduction in the origins of hierarchy in biological systems.
-\newblock  45--74.
 
 \bibitem[\protect\citeauthoryear{Flack}{}]{FlackCrsGrnng2017}
 Flack, J.~C.
@@ -73,6 +62,12 @@ Guattari, F.
 Heidegger, M.
 \newblock The question concerning technology.
 \newblock 99:113.
+
+\bibitem[\protect\citeauthoryear{Highmore}{}]{HighmoreBttrAftrTst2010}
+Highmore, B.
+\newblock Bitter after taste: Affect, food, and social aesthetics.
+\newblock In {\em The affect theory reader}. Duke University Press.
+\newblock  118--137.
 
 \bibitem[\protect\citeauthoryear{Hoelscher}{}]{HoelscherThPtcsOfPhsSpc2014}
 Hoelscher, J.
