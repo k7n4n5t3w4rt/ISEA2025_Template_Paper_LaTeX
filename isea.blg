@@ -5,11 +5,8 @@ The style file: isea.bst
 Database file #1: isea.bib
 Warning--entry type for "questioningTheFrame2004" isn't style-file defined
 --line 3881 of file isea.bib
-Warning--entry type for "ZepkeOSullivanDlzCntmprryArt2010" isn't style-file defined
---line 7083 of file isea.bib
 Warning--entry type for "DrkMfBld2021" isn't style-file defined
 --line 9174 of file isea.bib
-Warning--to sort, need author or key in ZepkeOSullivanDlzCntmprryArt2010
 Warning--empty year in theNatureOfTechnology2009
 Warning--empty year in DrkMfBld2021
 Warning--empty year in DantoEmbdMnngs2007
@@ -36,6 +33,7 @@ Warning--empty journal in MassumiTheAtnmyOfAffct1995
 Warning--there's a number but no volume in MassumiTheAtnmyOfAffct1995
 Warning--empty year in MassumiPrblsFrThVrtl2002
 Warning--empty year in MassumiAUsrsGdTCptlsmAndSchzphrn1992
+Warning--empty year in OSullivanFrmAsthtcsToThAbstrctMchn2010
 Warning--empty year in RancierThEmncptdSpcttr2009
 Warning--empty year in RanciereMdrnTms2022
 Warning--empty year in RancierPltcsOfThAsthtcs2004
@@ -45,47 +43,46 @@ Warning--empty year in TatarkiewiczWhtIsArt1971
 Warning--empty journal in TatarkiewiczWhtIsArt1971
 Warning--empty year in beyondLocativeMedia2006
 Warning--empty journal in beyondLocativeMedia2006
-Warning--empty year in ZepkeOSullivanDlzCntmprryArt2010
 Warning--empty year in ZepkeSblmArt2017
 You've used 27 entries,
             2568 wiz_defined-function locations,
-            716 strings with 8266 characters,
-and the built_in function-call counts, 8059 in all, are:
-= -- 802
-> -- 193
-< -- 1
-+ -- 69
-- -- 55
-* -- 597
-:= -- 1313
-add.period$ -- 114
+            718 strings with 8355 characters,
+and the built_in function-call counts, 8347 in all, are:
+= -- 841
+> -- 199
+< -- 2
++ -- 71
+- -- 57
+* -- 611
+:= -- 1361
+add.period$ -- 119
 call.type$ -- 27
-change.case$ -- 123
+change.case$ -- 124
 chr.to.int$ -- 23
-cite$ -- 66
-duplicate$ -- 375
-empty$ -- 703
-format.name$ -- 82
-if$ -- 1627
+cite$ -- 64
+duplicate$ -- 391
+empty$ -- 721
+format.name$ -- 85
+if$ -- 1696
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 36
-newline$ -- 140
-num.names$ -- 80
+missing$ -- 37
+newline$ -- 143
+num.names$ -- 83
 pop$ -- 263
 preamble$ -- 1
-purify$ -- 162
+purify$ -- 163
 quote$ -- 0
-skip$ -- 211
+skip$ -- 217
 stack$ -- 0
-substring$ -- 328
-swap$ -- 54
-text.length$ -- 1
+substring$ -- 359
+swap$ -- 63
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 164
-warning$ -- 38
-while$ -- 69
+warning$ -- 37
+while$ -- 74
 width$ -- 29
-write$ -- 308
-(There were 41 warnings)
+write$ -- 315
+(There were 39 warnings)
