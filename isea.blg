@@ -25,12 +25,7 @@ Warning--empty year in GuattariChsmss1995
 Warning--empty year in HeideggerThQstnCncrngTchnlgy1954
 Warning--empty journal in HeideggerThQstnCncrngTchnlgy1954
 Warning--empty year in HighmoreBttrAftrTst2010
-Warning--empty year in HoelscherThPtcsOfPhsSpc2014
-Warning--empty note in HoelscherThPtcsOfPhsSpc2014
 Warning--empty year in KantCrtqOfJdgmnt
-Warning--empty year in MassumiTheAtnmyOfAffct1995
-Warning--empty journal in MassumiTheAtnmyOfAffct1995
-Warning--there's a number but no volume in MassumiTheAtnmyOfAffct1995
 Warning--empty year in MassumiPrblsFrThVrtl2002
 Warning--empty year in MassumiAUsrsGdTCptlsmAndSchzphrn1992
 Warning--empty year in OSullivanFrmAsthtcsToThAbstrctMchn2010
@@ -45,45 +40,45 @@ Warning--empty journal in TatarkiewiczWhtIsArt1971
 Warning--empty year in beyondLocativeMedia2006
 Warning--empty journal in beyondLocativeMedia2006
 Warning--empty year in ZepkeSblmArt2017
-You've used 28 entries,
+You've used 26 entries,
             2568 wiz_defined-function locations,
-            723 strings with 8560 characters,
-and the built_in function-call counts, 8579 in all, are:
-= -- 867
-> -- 206
+            713 strings with 8324 characters,
+and the built_in function-call counts, 7992 in all, are:
+= -- 804
+> -- 192
 < -- 2
-+ -- 73
-- -- 59
-* -- 627
-:= -- 1406
-add.period$ -- 123
-call.type$ -- 28
-change.case$ -- 129
-chr.to.int$ -- 24
-cite$ -- 66
-duplicate$ -- 400
-empty$ -- 734
-format.name$ -- 88
-if$ -- 1738
-int.to.chr$ -- 5
++ -- 66
+- -- 55
+* -- 576
+:= -- 1308
+add.period$ -- 115
+call.type$ -- 26
+change.case$ -- 119
+chr.to.int$ -- 23
+cite$ -- 59
+duplicate$ -- 377
+empty$ -- 693
+format.name$ -- 82
+if$ -- 1629
+int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 37
-newline$ -- 148
-num.names$ -- 86
-pop$ -- 268
+missing$ -- 36
+newline$ -- 138
+num.names$ -- 80
+pop$ -- 254
 preamble$ -- 1
-purify$ -- 169
+purify$ -- 157
 quote$ -- 0
-skip$ -- 223
+skip$ -- 211
 stack$ -- 0
-substring$ -- 364
-swap$ -- 64
+substring$ -- 330
+swap$ -- 62
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 172
-warning$ -- 38
-while$ -- 76
-width$ -- 30
-write$ -- 326
-(There were 40 warnings)
+type$ -- 156
+warning$ -- 33
+while$ -- 70
+width$ -- 28
+write$ -- 304
+(There were 35 warnings)

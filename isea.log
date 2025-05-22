@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  21 MAY 2025 06:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  23 MAY 2025 07:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -148,21 +148,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-] [2]
-<flow-attractor.png, id=12, 1441.385pt x 628.3475pt>
+]
+<flow-attractor.png, id=9, 1441.385pt x 628.3475pt>
 File: flow-attractor.png Graphic file (type png)
 <use flow-attractor.png>
-Package pdftex.def Info: flow-attractor.png  used on input line 198.
+Package pdftex.def Info: flow-attractor.png  used on input line 192.
 (pdftex.def)             Requested size: 239.21352pt x 104.27689pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 199.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 193.
  (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [3 <./flow-attractor.png>]
-Underfull \hbox (badness 2326) in paragraph at lines 289--289
+) [2 <./flow-attractor.png>]
+Underfull \hbox (badness 1460) in paragraph at lines 276--277
+[]\OT1/ptm/m/n/10 The per-sis-tent dif-fer-ence be-tween art and tech-nol-ogy
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 282--282
 [][]\OT1/ptm/m/n/9 This is es-sen-tially Guat-tari's idea of an \OT1/ptm/m/it/9 ethico{aesthetic
  []
 
-(./isea.bbl
+[3] (./isea.bbl
 Underfull \hbox (badness 2818) in paragraph at lines 9--12
 []\OT1/ptm/m/n/10 Cooper-Douglas, E.  Dark mofo can-cels plan to
  []
@@ -182,7 +187,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 \OT1/ptm/m/n/10 23/aboriginal-outrage-dark-mofo-union-flag-prompts-
  []
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 46--49
 []\OT1/ptm/m/n/10 Fusco, C.  Ques-tion-ing the frame.
  []
@@ -193,35 +198,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--49
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 93--96
+Underfull \hbox (badness 1997) in paragraph at lines 83--86
 []\OT1/ptm/m/n/10 Massumi, B.  \OT1/ptm/m/it/10 A user's guide to cap-i-tal-ism and
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 125.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 115.
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
-) [5] (./isea.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 115.
+) [4] (./isea.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2512 strings out of 474116
- 44894 string characters out of 5732612
- 1945187 words of memory out of 5000000
- 24836 multiletter control sequences out of 15000+600000
+ 2505 strings out of 474116
+ 44679 string characters out of 5732612
+ 1944187 words of memory out of 5000000
+ 24829 multiletter control sequences out of 15000+600000
  581194 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,69p,803b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,11n,69p,686b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on isea.pdf (5 pages, 3667055 bytes).
+Output written on isea.pdf (4 pages, 3662396 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
