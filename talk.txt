@@ -1,4 +1,4 @@
-\title{Art as Technology (v1.1.0.9)}
+\title{Art as Technology (v1.1.0.10)}
 
 -------- [SLIDE] --------
 
@@ -6,9 +6,9 @@
 
 \section{Introduction}
 
-    This paper explores the idea that art is a technology -- an idea that grounds art as a material practice and also has the potential to change the way we think about technological evolution. 
+    This paper explores the idea that art is a technology -- an idea that grounds art as a material practice and which has the potential to change the way we think about technological evolution. 
     
-    The theoretical lens is a mixture of complexity science and Process philosophy, especially Brian Massumi's concept of affect, which has redefined aesthetics in recent years, and Jacques Rancière's systemic, materialist theories of art. At one point I mention one of my own artworks, FlowAttractor, as a kind of cautionary tale.
+    The theoretical lens is complexity science and Process philosophy, especially Brian Massumi's concept of affect, which has redefined aesthetics in recent years, and Jacques Rancière's theories of art. At one point I mention one of my own artworks, FlowAttractor, as a kind of cautionary tale.
 
 -------- [SLIDE] --------
 
@@ -16,9 +16,9 @@
 
 -------- [SLIDE] --------
 
-    From the perspective of Complex Adaptive System Theory, a technical object is always a phenomenon, or phenomena, ``captured and put to use.''. To put it another way, technology is ``programming [...] phenomena for [...] purpose.''. This is a simple and powerful distillation because it holds for all technologies, contemporary and historical, and it takes the idea of technology beyond just physical, mechanical objects.
+    A technical object is always a phenomenon, or phenomena, ``captured and put to use.''. Technology is ``programming [...] phenomena for [...] purpose.''. This is a simple and powerful distillation because it holds for all technologies, contemporary and historical, and it takes the idea of technology beyond just physical, mechanical objects.
     
-    A key point is that ``phenomena'' don't have to be physical, like fire or electricity. They may be ``behavioural or organisational effects'' , or simply ``truism[s] of nature'' . Any ``perceived regularity'', in scientific terms. 
+    ``Phenomena'' don't have to be physical, like fire or electricity. They can be ``behavioural or organisational effects'' , or simply ``truism[s] of nature''. Any ``perceived regularity'', in scientific terms. 
 
 -------- [SLIDE] --------
 
@@ -36,93 +36,91 @@
 
 -------- [SLIDE] --------
 
-    Jacques Rancière has called contemporary Western art ``the aesthetic regime'' . It is a ``regime of perception'', a ``mode of thought'' that ``runs through the specific definitions that the arts have given to themselves in the Modern Age'' . It's emergence at the end of the eighteenth century coincided with Immanuel Kant's \emph{Critique of Judgement}. 
+    Rancière has called contemporary Western art ``the aesthetic regime''. It is a ``regime of perception'', a ``mode of thought'' that ``runs through the specific definitions that the arts have given to themselves in the Modern Age''. It's emergence at the end of the eighteenth century coincided with Immanuel Kant's \emph{Critique of Judgement}. 
 
     Within the aesthetic regime, all distinctions and differences operate in relation with the idea of aesthetic experience. Styles like Modernism and Post–Modernism, for example, are simply different strategies for making aesthetic objects. Art which is anti–aesthetic is operating within the aesthetic regime by being self–consciously critical of it. Conceptual art is art that invites us to consider the aesthetic potential of ideas -- and so on.
 
-    Art in this sense is a complex codifying system that dislocates objects from their original functions and meanings and gives them an artistic function and meanings. In this sense, the ``dissensual operation'' of creating an artwork, for example by working a material into a form, or by setting the state of pixels on a screen, or by appropriating a ready–made object, literally ``transforms a given form or body into a new one.'' .
+    Art is a complex codifying system that dislocates objects from their original functions and meanings and gives them artistic functions and meanings. In this sense, the ``dissensual operation'' of creating an artwork, for example by working a material into a form, or by setting the state of pixels on a screen, or by appropriating a ready–made object, literally ``transforms a given form or body into a new one.'' .
 
 -------- [SLIDE] --------
 
 \section{Affect}
 
-The concept of \emph{affect}, which comes from Deleuze and Guattari via Brian Massumi, is a way of thinking about how things affect other things in complex systems of interconnections that is the world. It is the way that we and things are moved by the world and each other. When it happens in humans, it is a kind of pre-cognitive, pre-linguistic, pre-conscious event during which the world emerges into existence. 
+    The concept of \emph{affect}, which comes from Deleuze and Guattari via Brian Massumi, is a way of thinking about how things affect other things. It is the way that we and things are moved by the world and each other. When affect happens in humans, it is a kind of pre-cognitive, pre-linguistic, pre-conscious event during which the world emerges into existence. 
 
-Affect is when emergence happens. It’s a moment of quantum indeterminacy fed forward across levels of reality until it may register as cause and effect. In turn, this apparent causality feeds back as ``downward causation'' , influencing the behaviour of system components. Affective exchanges are ongoing at every level of organisation.
+    Affect is quantum indeterminacy fed forward across levels of reality until it can register as cause and effect. In turn, this apparent causality feeds back as ``downward causation'' , influencing the behaviour of lower-level components. Affective exchanges are ongoing and chaotic at every level of organisation.
 
-Humans are especially tuned to picking up affective regularities. We notice patterns: the rhythm of seasons, animal behaviours, music, language. We make sense of the world with these patterns.
+    Humans are especially tuned to picking up regularities in the affective chaos. We notice patterns: the rhythm of seasons, animal behaviours, music, language. We make sense of the world with patterns.
 
-Art, the aesthetic regime, exploits this sensitivity. It’s a codifying system — a hack — that charges objects with affect, like a battery.
+    Art, the aesthetic regime, exploits this tendency. It is a codifying system — a hack — that seems to charge objects with affect, like batteries.
 
-The relatively recent shift from the idea that only experiences of beauty are aesthetic experiences to the idea that aesthetic experience is affective reframes art as material and emergent. Art is now about ``complex affective and intensive exchanges, situated in the broader ecology of the world.''
+    The relatively recent shift from the idea that only experiences of beauty are aesthetic experiences to the idea that aesthetic experience is affective reframes art as material and emergent. Art is about ``complex affective and intensive exchanges, situated in the broader ecology of the world.''
 
-The affective charge of an artwork can include qualities that are—
+    The affective charge of an artwork can include qualities that are
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-strong,
+    strong,
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-gentle,
+    gentle,
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-sensorial,
+    sensorial,
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-semantic,
+    semantic,
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-abstract,
+    abstract,
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-pleasant and
+    pleasant
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-unpleasant.
+    and unpleasant.
 
--------- [SLIDE] --------
+    -------- [SLIDE] --------
 
-It may strobe between incompatible states — like the cute and the grotesque.
+    It may strobe between incompatible states — like the cute and the grotesque.
 
 \section{Purpose}
 
     -------- [SLIDE] --------
 
-    According to Felix Guattari, art ``confers a function of sense and alterity to a subset of the perceived world''. In other words, an artwork is \emph{about} something.
+    According to Felix Guattari, art ``confers a function of sense and alterity to a subset of the perceived world''. In other words, an artwork is always \emph{about} something.
 
-    Art objects have been described as having ``embodied meaning'' -— a useful framing, so long as we remember that meaning in an art sense is always contextual. It ``is [...] a network of enveloped material processes. A thing has as many meanings as there are forces capable of seizing it.'' 
+    Art objects have been described as having ``embodied meaning'' -— a useful framing, so long as we remember that ``meaning'', in an art sense, is always contextual. It ``is [...] a network of enveloped material processes. A thing has as many meanings as there are forces capable of seizing it.'' 
 
-    So we arrive at this idea of an art object as a technical object: a phenomenon (our capacity to attribute affect to objects) captured and given purpose as a way of making sense of some aspect of the world.
+    So we arrive at this idea of an art object as a technical object: a phenomenon (our capacity to attribute affective regularity to objects) captured and given purpose as a way of making sense of some aspect of the world.
 
     -------- [SLIDE] --------
 
-    That's quite straightforward, but the idea of purpose with respect to art remains confusing for two reasons.
+    That's quite a straightforward explanation of art as a technology, but the idea of purpose with respect to art remains confusing for two reasons.
     
     -------- [SLIDE] --------
 
-    Art objects often have multiple purposes. A painting can evoke beauty (its ``art purpose'', we might say), but can also confer status, act as capital, or start a revolution. Just as artworks are indeterminate with respect to meaning[?], they are indeterminate with respect to purpose.
+    One reason is that purpose, like meaning, is contextual. A painting can evoke beauty (its ``art purpose'', we might say), but can also confer status, act as capital, or start a revolution.
 
     -------- [SLIDE] --------
 
-    Some artworks incorporate non-art purposes into their embodied meaning without their meaning ever being reducible to them. There is always ``contextual excess or remainder''. In craft or socially connected artworks, these entanglements are deliberate.
+    Some artworks incorporate non-art purposes into their embodied meanings. In socially connected artworks, and in crafts that have a functional component, art purposes and non-art purposes are deliberately entangled.
 
-    When art and non-art purposes mix, the art purpose can suffer —- especially in artworks made with emerging technologies, where the potentials of the technologies are not yet well understood.
+    When art purpose and non-art purposes mix in an artwork, the art purpose can suffer —- especially in artworks made with emerging technologies, where the affective potentials of the technologies are not yet well understood.
 
     -------- [SLIDE] --------
 
-	% In the early 2000s, practitioners of locative art were criticised for their uncritical use of mapping and networked, location-aware, mobile technologies, as well as for their collaborations with industry. It was alleged that they lacked a structure of accountability and ethics, were ushering in a `society of control', and were turning the media-art conference circuit into a `shopping-driven [...] spectacle' . Locative art was described as a ``technocentric fantasy'' that ``downplays [...] history'' .
+    In the early 2000s, locative art drew criticism for uncritical adoption of mobile and networked technologies. Critics saw ethical blind spots, commercial entanglements, and complicity with surveillance cultures.
 
-    In the early 2000s, locative art drew criticism for uncritical adoption of mobile and networked technologies. Critics saw ethical blind spots, commercial entanglements, and complicity with surveillance culture.
+    For some, the imagined non-art potentials of locative technologies disrupted the art-purpose of the artworks. These fears seem valid now that techno-capitalism and mass surveillance have become obvious realities.
 
-    The imagined non-art potentials of locative technologies disrupted the art-purpose of the artworks. These critiques seem valid, now that techno-capitalism and mass surveillance have become obvious realities.
-
-    Should an artwork’s purpose becomes reducible to it's non-art purpose, it would no longer be art.
+    If an artwork’s purpose becomes reducible to a non-art purpose, it is no longer art, as this example from my own practice shows.
 
     -------- [SLIDE] --------
 
@@ -134,15 +132,13 @@ It may strobe between incompatible states — like the cute and the grotesque.
         \label{fig:flow-attractor}
     \end{figure}
 
-    In \emph{FlowAttractor} (Figure~\ref{fig:flow-attractor}), the flow of cubes visualises the hidden movement of work items in a bank’s software pipeline. Within that context, its purpose is to heighten awareness of small decisions that shape system flow. Augmented reality works well for this.
+    In \emph{FlowAttractor} (Figure~\ref{fig:flow-attractor}), the flow of cubes visualises the hidden movement of work items in a bank’s software development system. In that context, its purpose is to heighten awareness of small decisions that shape system flow. Augmented reality works well for this.
 
-    But, because its meaning is completely reducible to a non–art purpose, it ceases to be an art object in that context.
+    It looks interesting but, because its meaning is completely reducible to a non–art purpose, it ceases to be an art object in that context.
 
     -------- [SLIDE] --------
 
-    Art’s purpose is complex, shifting, and relational. But this isn’t unique to art.
-
-    Non-art technical objects also have indeterminate uses. For instance, we don't know exactly how Anaesthesia works.
+    It is worth noting that purpose is contextual for all technical objects, not just art objects. For instance, we don't know exactly how Anaesthesia works.
 
     -------- [SLIDE] --------
 
@@ -154,9 +150,11 @@ It may strobe between incompatible states — like the cute and the grotesque.
 
     -------- [SLIDE] --------
 
-    Another reason purpose is confusing is that purpose, or lack of it, has been understood to be the difference between artmaking and other forms of making. For Kant, beauty was ``purposive without a purpose''. An art object’s value lay in its lack of functional purpose, as if being beautiful is not a functional purpose.
+    Another reason purpose is confusing is that purpose, or lack of it, has been understood to be the line of difference separating artmaking and other forms of making. For Kant, beauty was ``purposive without a purpose''. For him, an art object’s value lay in its apparent lack of functional purpose, as if being beautiful was not a purpose.
 
-    This idea is circular. It only makes sense if one assumes that art objects differ categorically from other crafted objects. All technologies are different, and purpose is a key aspect of their difference, so how did this idea come about that art is an entirely different category or practice from technology? Why is it strangely unthinkable to think of art as a technology?
+    This idea is circular. It is only available as an idea if one already assumes that art objects differ categorically from crafted objects, rather than simply being another kind of crafted object.
+    
+    All technologies are different, and purpose is a key aspect of their difference, so how did this idea come about that art is an entirely different category of practice from technology? Why is it vaguely unthinkable to think of art as a technology?
 
     -------- [SLIDE] --------
 
@@ -164,11 +162,11 @@ It may strobe between incompatible states — like the cute and the grotesque.
     
 -------- [SLIDE] --------
 
-    According to complexity science, ``coarse graining'' occurs when a subsystem with emergent properties is treated as a single entity by the wider system. It’s a shortcut -- like zooming out on a map to see the shape of a city, while losing the detail of its streets. It is ``lossy but true'' .
+    According to science, ``coarse graining'' occurs when a subsystem with emergent properties is treated as a single entity by the wider system. It’s an approximation -- like zooming out on a map to see the shape of a city, and losing the detail of its streets. It is ``lossy but true''.
 
     Sometimes, though, it’s just lossy. Humans, evolutionarily tuned to find patterns, often imagine them.
 
-    The perceived split between art and technology may be one such imagined pattern — a dubious piece of coarse graining that has persisted for about six hundred years. It survives, in part, because the aesthetic regime overlays an older regime where that distinction first emerged.
+    The perceived split between art and technology may be one such imagined pattern -— a dodgy bit of coarse graining that has persisted for about six hundred years. It exists because the aesthetic regime overlays an older regime where that distinction first emerged.
     
 -------- [SLIDE] --------
 
@@ -176,9 +174,9 @@ It may strobe between incompatible states — like the cute and the grotesque.
 
     The idea of a qualitative divide between what we now call ``the arts'' and other forms of making began to take shape during the Renaissance. By the 17th century, this classification had solidified. Rancière calls this ``partitioning of the sensible'' the ``regime of representation.''
 
-    The arts -- music, literature, sculpture, painting, and so on -- existed, but not as a unified category called ``art.'' They were disparate practices, each with a specific social function, nested within a hierarchical system that classified activities and people. Their collective role was to represent the world as an orderly whole -- a place for everything and everyone in their place.
+    The arts -- music, literature, sculpture, painting, and so on -- existed on one side of the fold, but not as a unified category called ``art.'' They were disparate practices, each with a specific social function, nested within a hierarchical system that classified activities and people. Their collective role was to represent the world as an orderly whole -- a place for everything and everyone in their place.
 
-    The aesthetic regime -- art as we know it -- emerged as a tactic that cuts across this representational order. Yet we still observe the difference that seems to exist between art and other practices. We organise our schools and faculties along this line -- STEM on one side, arts and humanities on the other.
+    The aesthetic regime -- art as we know it -- emerged as a tactic overlaying this representational order, but we still observe the difference that seems to exist between art and other technical practices. We organise our schools and faculties along this line -- STEM on one side, arts and humanities on the other.
 
     This fold in the ``distribution of the sensible'' is what the idea of art as technology begins to smooth out. What would it mean for this fold not to exist? A look at the regime that preceded representation reveals just such a condition.
 
@@ -186,21 +184,21 @@ It may strobe between incompatible states — like the cute and the grotesque.
 
     \subsection{The Ethical Regime of Images}
 
-    Heidegger, in ``The Question Concerning Technology,'' noted that ``techne'' was the ancient Greek word for skill, craft, and technique — a term that covered the arts, sciences, and technical practices like sword-making and shipbuilding .
+    Heidegger, in ``The Question Concerning Technology,'' noted that ``techne'' was the ancient Greek word for skill, craft, and technique. It covered the arts, sciences, and technical practices like sword-making and shipbuilding.
 
-    Rancière has called this world-view the ``ethical regime of images,'' where ``image'' implies that all crafted things reflect ideal forms.
+    Rancière has called this world-view the ``ethical regime of images,'' where ``image'' implies that all crafted things reflect ideal forms -- not an idea that carries much weight today.
     
-    In this regime, ethics mattered. The ``end or purpose'' of an object — what it did in the world, how its effects shaped the ``ethos,'' the collective mode of being of individuals and communities  — was central. 
+    In this regime, ethics mattered. The ``end or purpose'' of an object — what it did in the world, how its effects shaped the ``ethos,'' the collective mode of being of individuals and communities — was central. 
     
-    Plato distinguished between ``true arts,'' which imitated ideal forms with clear ends, and ``lesser arts,'' which merely mimicked appearances . While these ideas now seem quaint, they formed an ethical framework linking making with consequence.
+    Plato distinguished between ``true arts,'' which imitated ideal forms with clear ends, and ``lesser arts,'' which merely mimicked appearances. While these ideas now seem quaint, they formed an ethical framework linking making with affect.
     
     Like the regime of representation, the ethical regime still exists as a cultural substrate. We still care who makes what —- and why —- especially when it comes to art.
     
     -------- [SLIDE] --------
     
-    In 2021, an art festival in Hobart planned to feature a work by Santiago Sierra involving blood donations from descendants of First Nations peoples who survived colonisation. Many argued the work sensationalised trauma to no positive effect. Rappers Tasman Keith and Briggs posted that they ``already gave enough blood''. The piece was eventually pulled.
+    In 2021, an art festival in Hobart planned to feature a work involving blood donations from descendants of First Nations peoples who survived colonisation. Many argued the work sensationalised trauma to no positive effect. Rappers Tasman Keith and Briggs posted that they ``already gave enough blood''. The piece was eventually pulled.
     
-    Somewhere along the line, technological crafting became decoupled —- in a way artmaking didn’t —- from the kind of affective sensitivity that underpins both aesthetics and ethics. Technology evolves, it seems, regardless of how we feel about it.
+    However, somewhere along the line, technological crafting became decoupled —- in a way artmaking didn’t —- from the kind of affective sensitivity that underpins both aesthetics and ethics. Technology evolves, it seems, regardless of how we feel about it.
     
     We may fear losing jobs or identity because of AI, but those fears will be ignored.
      
@@ -208,13 +206,13 @@ It may strobe between incompatible states — like the cute and the grotesque.
 
 \section{Conclusion}
 
-    To think of art as a technology is to think across the fold that separates art from technology, and to begin a process of smoothing out the fold. It challenges us to imagine what it would be like for this difference to not exist, potentially changing the way we think about both artmaking and technological development.
+    To think of art as a technology is to think across the fold that separates art from technology, and to begin a process of smoothing out the fold. It challenges us to imagine what it would be like for this difference to not exist.
     
     The persistent difference between art and technology makes it unthinkable to think of art as a technology. But if this difference can be rethought, then perhaps it is a job for artists who work with emerging technologies. 
     
 -------- [SLIDE] --------
 
-    As artists working at the edges of technological evolution, we are invited to return humanity to an idea of crafting, guided by ethics informed by an aesthetic appreciation of the complex, interconnected nature of all things. Perhaps we will open a space in which humans can begin to learn how to evolve our technologies differently at a moment in history when our technologies are learning to relate differently with us.
+    As artists working at the edges of technological evolution, we are invited to return humanity to an idea of crafting, guided by ethics informed by an aesthetic appreciation of the interconnected nature of all things. Perhaps we will open a space in which humans can begin to learn how to evolve our technologies differently at a moment in history when our technologies are learning to relate differently with us.
     
     Perhaps, to paraphrase Gilbert Simondon, we may begin to think of ourselves as
 
