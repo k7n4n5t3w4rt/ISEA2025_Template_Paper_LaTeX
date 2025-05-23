@@ -1,62 +1,49 @@
-\title{Art as Technology (v1.1.0.11)}
-
 -------- [SLIDE: "Art As Technology"] --------
 
 -------- [SLIDE: "Introduction"] --------
-
-\section{Introduction}
 
     This paper explores the idea that art is a technology -- an idea that grounds art as a material practice and which has the potential to change the way we think about technological evolution. 
     
     The theoretical lens is complexity science and Process philosophy, especially Brian Massumi's concept of affect, which has redefined aesthetics in recent years, and Jacques Rancière's theories of art. At one point I mention one of my own pieces, FlowAttractor, as a kind of cautionary tale.
 
+
 -------- [SLIDE: "A Definition of Technology"] --------
 
-\section{A Definition of Technology} 
+    -------- [SLIDE: "...phenomena programmed..." ~ Brian Arthur] --------
 
--------- [SLIDE: "...phenomena programmed for some purpose..." ~ Brian Arthur] --------
-
-    A technical object is always a phenomenon, or phenomena, ``captured and put to use.''. Technology is ``programming [...] phenomena for [...] purpose.''. This is distillation holds for all technologies, contemporary and historical, and it takes the idea of technology beyond just physical, mechanical objects.
+    A technical object is always a phenomenon, or phenomena, ``captured and put to use.''. Technology is ``programming [...] phenomena for [...] purpose.''. This distillation holds for all technologies, contemporary and historical, and it takes the idea of technology beyond just physical, mechanical objects.
     
     ``Phenomena'' don't have to be physical, like fire or electricity. They can be ``behavioural or organisational effects'' , or simply ``truism[s] of nature''. Any ``perceived regularity'', in scientific terms. 
 
--------- [SLIDE: MONEY] --------
+    -------- [SLIDE: MONEY] --------
 
-    \subsection{Example: Money}
+    For example, Money is a technology. It ``makes use of the ‘phenomenon’ that we trust a medium has value as long as we believe that others trust it has value and we believe this trust will continue in the future.''
 
-    For example, Money is a technology. It
-
-    \begin{quote}
-        makes use of the ``phenomenon'' that we trust a medium has value as long as we believe that others trust it has value and we believe this trust will continue in the future. 
-    \end{quote}
 
 -------- [SLIDE: "A Definition of Art"] --------
 
-\section{A Definition of Art}
-
--------- [SLIDE: "The aesthetic mode of thought..." ~ Rancière] --------
+    -------- [SLIDE: "The aesthetic mode of thought..." ~ Rancière] --------
 
     Rancière has called contemporary Western art ``the aesthetic regime''. It is a ``regime of perception'', a ``mode of thought'' that ``runs through the specific definitions that the arts have given to themselves in the Modern Age''. Its emergence at the end of the eighteenth century coincided, significantly, with Immanuel Kant's \emph{Critique of Judgement}. 
 
-    Within the aesthetic regime, all distinctions and differences operate in relation with the idea of aesthetic experience. Styles like Modernism and Post–Modernism, for example, are simply different strategies for making aesthetic objects. Art which is anti–aesthetic is operating within the aesthetic regime by being self–consciously critical of it. Conceptual art is art that invites us to consider the aesthetic potential of ideas -- and so on.
+    Art styles like Modernism and Post–Modernism, for example, are simply different strategies for making aesthetic objects within the aesthetic regime. Art which is anti–aesthetic is operating as part of the aesthetic regime by being self–consciously critical of it. Conceptual art is art that invites us to consider the aesthetic potential of ideas -- and so on.
 
     Art is a complex codifying system that dislocates objects from their original functions and meanings and gives them artistic functions and meanings. In this sense, the ``dissensual operation'' of creating an artwork, for example by working a material into a form, or by appropriating a ready–made object, literally ``transforms a given form or body into a new one.''.
 
--------- [SLIDE: "Affect"] --------
 
-\section{Affect}
+-------- [SLIDE: "Affect"] --------
 
     The concept of \emph{affect}, which comes from Deleuze and Guattari via Brian Massumi, is a way of thinking about how things affect other things. It is the way that we and things are moved by the world and each other. When affect happens in humans, it is a kind of pre-cognitive, pre-linguistic, pre-conscious event during which the world emerges into existence. 
 
--------- [SLIDE: "...fed forward..." ~ Massumi] --------
+    -------- [SLIDE: "...fed forward..." ~ Massumi] --------
 
     Affect is quantum indeterminacy fed forward across levels of reality until it can register as cause and effect. In turn, this apparent causality feeds back as ``downward causation'' , influencing the behaviour of lower-level components. Affective exchanges are ongoing and chaotic at every level of organisation.
 
     Humans are especially tuned to picking up regularities in the affective chaos. We notice patterns: the rhythm of seasons, animal behaviours, music, language. We make sense of the world with patterns.
 
-    Art, the aesthetic regime, exploits this tendency. It is a codifying system — a hack — that seems to charge objects with affect, like batteries.
+    Art, the aesthetic regime, exploits this tendency. It is a codifying system — a hack — that seems to charge objects with affect, as if they were a kind of battery.
 
-    The relatively recent shift from the idea that only experiences of beauty are aesthetic experiences to the idea that aesthetic experience is affective reframes art as material and emergent. Art is about ``complex affective and intensive exchanges, situated in the broader ecology of the world.''
+    The relatively recent shift from the idea that only experiences of beauty are aesthetic experiences to the idea that aesthetic experience is affective reframes art as material and complex. Art is about ``complex affective and intensive exchanges, situated in the broader ecology of the world.''
 
     The affective charge of an artwork can include qualities that are
 
@@ -92,9 +79,8 @@
 
     It may strobe between incompatible states — like the cute and the grotesque.
 
-    -------- [SLIDE: "Purpose"] --------
 
-\section{Purpose}
+-------- [SLIDE: "Purpose"] --------
 
     -------- [SLIDE: "...sense and alterity" ~ Guattari] --------
 
@@ -104,7 +90,7 @@
 
     So we arrive at this idea of an art object as a technical object: a phenomenon (our capacity to attribute affective regularity to objects) captured and given purpose as a way of making sense of some aspect of the world.
 
-    -------- [SKIP::SLIDE: "...purposive without a purpose..." ~ Kant] --------
+    -------- [SKIP::SLIDE: "...without a purpose..." ~ Kant] --------
 
     That's quite a straightforward explanation of art as a technology, but the idea of purpose with respect to art remains confusing for two reasons.
     
@@ -168,10 +154,8 @@
     
     All technologies are different, and purpose is a key aspect of their difference, so how did this idea come about that art is an entirely different category of practice from technology? Why is it vaguely unthinkable to think of art as a technology?
 
-    -------- [SLIDE: "A Fold in the Distribution of the Sensible"] --------
+-------- [SLIDE: "A Fold in the Distribution of the Sensible"] --------
 
-\section{A Fold in the Distribution of the Sensible}
-    
     -------- [SLIDE: "Adaptive systems..." ~ Flack] --------
 
     According to science, ``coarse graining'' occurs when a subsystem with emergent properties is treated as a single entity by the wider system. It’s an approximation -- like zooming out on a map to see the shape of a city, and losing the detail of its streets. It is ``lossy but true''.
@@ -181,8 +165,6 @@
     The perceived split between art and technology may be one such imagined pattern -— a dodgy bit of coarse graining that has persisted for about six hundred years. It exists because the aesthetic regime overlays an older regime where that distinction first emerged.
     
     -------- [SLIDE: "...does not abolish the representative regime..." ~ Rancière] --------
-
-    \subsubsection{The Regime of Representation}
 
         The idea of a qualitative divide between what we now call ``the arts'' and other forms of making began to take shape during the Renaissance. By the 17th century, this classification had solidified. Rancière calls this ``partitioning of the sensible'' the ``regime of representation.''
 
@@ -195,8 +177,6 @@
         This fold in the ``distribution of the sensible'' is what the idea of art as technology begins to smooth out. What would it mean for this fold not to exist? A look at the regime that preceded representation reveals just such a condition.
 
     -------- [SLIDE: "...an ethical regime of images..." ~ Rancière] --------
-
-    \subsection{The Ethical Regime of Images}
 
         Heidegger, in ``The Question Concerning Technology,'' noted that ``techne'' was the ancient Greek word for skill, craft, and technique. It covered the arts, sciences, and technical practices like sword-making and shipbuilding.
 
@@ -218,8 +198,6 @@
      
 -------- [SLIDE: "Conclusion"] --------
 
-\section{Conclusion}
-
     To think of art as a technology is to think across the fold that separates art from technology, and to begin a process of smoothing out the fold. It challenges us to imagine what it would be like for this difference to not exist.
     
     The persistent difference between art and technology makes it unthinkable to think of art as a technology. But if this difference can be rethought, then perhaps it is a job for artists who work with emerging technologies. 
@@ -234,4 +212,4 @@
         inventors of technical and living objects. We coordinate and organise their mutual relation at the level of machines, between machines. [...] We construct the signification of the exchanges of information between machines. Our rapport with the technical object is a coupling between the living and the non–living. 
     \end{quote}
 
-    -------- [SLIDE: QR CODE] --------
+-------- [SLIDE: QR CODE] --------
