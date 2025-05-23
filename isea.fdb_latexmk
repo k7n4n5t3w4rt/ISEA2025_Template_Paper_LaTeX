@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex isea"] 1747774779.17407 "isea.aux" "isea.bbl" "isea" 1747948494.21697 0
-  "./isea.bib" 1747259007.44406 449967 00f4ba5bac0b22226ccac652c9c4915b ""
+["bibtex isea"] 1747774779.17407 "isea.aux" "isea.bbl" "isea" 1747980035.62599 0
+  "./isea.bib" 1747948616.4936 449967 00f4ba5bac0b22226ccac652c9c4915b ""
   "./isea.bst" 1730214740 21873 80a4fb31265122699a926083e20a98d2 ""
-  "isea.aux" 1747948494.06358 3151 53ffeb7fed9529bbd7df2d24cf75c400 "pdflatex"
+  "isea.aux" 1747980035.47934 3113 a49e392be784ed5012c031a9d345d708 "pdflatex"
   (generated)
   "isea.bbl"
   "isea.blg"
   (rewritten before read)
-["pdflatex"] 1747948493.39417 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_ArtAsTechnology/isea.tex" "isea.pdf" "isea" 1747948494.2171 0
-  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_ArtAsTechnology/isea.tex" 1747948493.14717 19464 1d62578a36e5828bc789f816f8953fe1 ""
+["pdflatex"] 1747980034.84069 "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_ArtAsTechnology/isea.tex" "isea.pdf" "isea" 1747980035.6261 0
+  "/Users/m1/apps/k7n4n5t3w4rt/ISEA2025_ArtAsTechnology/isea.tex" 1747980034.61203 19922 d2de294d84d8924d90d20a0c6f250358 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -66,11 +66,11 @@
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1710106625 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221878 83314ecb9b2818e5586c154833f52511 ""
-  "flow-attractor.png" 1747259007.43703 3053632 818a347c3c821f27487d6d8c04049116 ""
-  "isea.aux" 1747948494.06358 3151 53ffeb7fed9529bbd7df2d24cf75c400 "pdflatex"
-  "isea.bbl" 1747774779.26883 5376 6f71d78ba6cc6d21c005c41df4d8b59d "bibtex isea"
+  "flow-attractor.png" 1747948616.48219 3053632 818a347c3c821f27487d6d8c04049116 ""
+  "isea.aux" 1747980035.47934 3113 a49e392be784ed5012c031a9d345d708 "pdflatex"
+  "isea.bbl" 1747948616.48993 5376 6f71d78ba6cc6d21c005c41df4d8b59d "bibtex isea"
   "isea.sty" 1730214740 13713 eeab261e94544bd36e0265d94d3dcf2b ""
-  "isea.tex" 1747948493.14717 19464 1d62578a36e5828bc789f816f8953fe1 ""
+  "isea.tex" 1747980034.61203 19922 d2de294d84d8924d90d20a0c6f250358 ""
   (generated)
   "isea.aux"
   "isea.log"
