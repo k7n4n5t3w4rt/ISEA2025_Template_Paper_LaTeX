@@ -17,7 +17,6 @@
 
     For example, Money is a technology. It ``makes use of the ‘phenomenon’ that we trust a medium has value as long as we believe that others trust it has value and we believe this trust will continue in the future.''
 
-
 -------- [SLIDE: "A Definition of Art"] --------
 
     -------- [SLIDE: "The aesthetic mode of thought..." ~ Rancière] --------
@@ -30,20 +29,22 @@
 
     Art is a complex codifying system that dislocates objects from their original functions and meanings and gives them artistic functions and meanings. In this sense, the ``dissensual operation'' of creating an artwork, for example by working a material into a form, or by appropriating a ready–made object, literally ``transforms a given form or body into a new one.''.
 
+    I'm going show that art fits the definition of a technology because it captures a phenomenon for a purpose.
+
 
 -------- [SLIDE: "Affect"] --------
 
     -------- [SLIDE: "...fed forward..." ~ Massumi] --------
 
-    The concept of \emph{affect}, which comes from Deleuze and Guattari via Massumi, is a way of thinking about how things affect other things. It is the way that we and things are moved by the world and each other. When affect happens in humans, it is a kind of pre-cognitive, pre-linguistic, pre-conscious event during which the world emerges into existence. 
+    The phenomenon art captures is related to the idea of \emph{affect}, which comes from Deleuze and Guattari via Massumi. Affect is a way of thinking about how things affect other things. It is the way that we and things are moved by the world and each other. When affect happens in humans, it is a kind of pre-cognitive, pre-conscious event during which the world emerges into existence. 
 
     Affect is quantum indeterminacy fed forward across levels of reality until it can register as cause and effect. In turn, this apparent causality feeds back from the macro, system level as ``downward causation'', influencing the behaviour of lower-level components. Affective exchanges are ongoing and chaotic at, and across, every level of organisation.
 
     Humans are especially tuned to picking up regularities in this affective chaos. We notice patterns: the rhythm of seasons, the predictable behaviours of animals, music, language. We make sense of the world with patterns.
 
-    Art, the aesthetic regime, exploits this tendency like a kind of hack. It charges objects with affect as if they were batteries taking a charge.
+    Art, the aesthetic regime, exploits this tendency like a kind of hack. It charges objects with affect as if they were batteries.
 
-    The relatively recent shift from the idea that only experiences of beauty are aesthetic experiences to the idea of aesthetics is affect reframes art as material and complex. Art is about ``complex affective and intensive exchanges, situated in the broader ecology of the world.''
+    The relatively recent shift from the idea that only experiences of beauty are aesthetic experiences to the idea of aesthetics as affect reframes art as material and complex. Art is about ``complex affective and intensive exchanges, situated in the broader ecology of the world.''
 
     The affective charge of an artwork can include qualities that are
 
@@ -84,9 +85,9 @@
 
     -------- [SLIDE: "...sense and alterity" ~ Guattari] --------
 
-    According to Felix Guattari, art ``confers a function of sense and alterity to a subset of the perceived world''. In other words, an artwork is always \emph{about} something.
+    According to Felix Guattari, the purpose of an art object is to confer ``a function of sense and alterity to a subset of the perceived world''. In other words, an artwork helps us to makes sense of whatever it is \emph{about}.
 
-    Art objects have been described as having ``embodied meaning'' -— a useful framing, so long as we remember that ``meaning'', in an art sense, is always contextual. It ``is [...] a network of enveloped material processes. A thing has as many meanings as there are forces capable of seizing it.'' 
+    Art objects have been described as having ``embodied meaning'' -— a useful framing, so long as we remember that ``meaning'', in an art sense, is always contextual and never literal or simple. It ``is [...] a network of enveloped material processes. A thing has as many meanings as there are forces capable of seizing it.'' 
 
     So we arrive at this idea of an art object as a technical object: a phenomenon (our capacity to attribute affective regularity to objects) captured and given purpose as a way of making sense of some aspect of the world.
 
@@ -95,7 +96,7 @@
     -------- [SKIP::SLIDE: "...without a purpose..." ~ Kant] --------
     -------- [SLIDE: Bierstadt, Mount Starr King (1866)] --------
 
-    One reason is that purpose, like meaning, is contextual. The main purpose of a painting -- its ``art purpose'', we might say --  might be to evoke beauty.
+    One reason is that purpose, like meaning, is contextual and indeterminate. The main purpose of a painting -- its ``art purpose'', we might say --  might be to evoke beauty.
     
     -------- [SLIDE: +1] --------
 
@@ -111,25 +112,23 @@
 
     -------- [SLIDE: Blast Theory, Can You See Me Now (2003)] --------
 
-    When art purpose and non-art purposes mix in an artwork, the art purpose can suffer —- especially in artworks made with emerging technologies, where the affective potentials of the technologies are not yet well understood.
+    When art purposes and non-art purposes mix in an artwork, the art purpose can suffer —- especially in artworks made with emerging technologies, where the affective potentials of the technologies are not yet well understood.
 
-    In the early 2000s, locative art drew criticism for uncritical adoption of mobile and networked technologies. Critics saw ethical blind spots, commercial entanglements, and complicity with surveillance cultures.
-
-    For some, the imagined non-art potentials of locative technologies disrupted the art-purpose of the artworks. These fears seem valid now that techno-capitalism and mass surveillance have become obvious realities.
-
-    If an artwork’s purpose becomes reducible to a non-art purpose, it is no longer art, as this example from my own practice shows.
+    In the early 2000s, locative art drew criticism for using mobile and networked technologies uncritically. For the theorists and other artists who looked at locative art and saw ethical blind spots, commercial entanglements, and complicity with surveillance cultures, the imagined non-art potentials of locative technologies disrupted the art-purpose of the artworks. These fears seem valid now that techno-capitalism and mass surveillance have become obvious realities.
 
     -------- [SLIDE: "FlowAttractor"] --------
 
+    If an artwork’s purpose becomes reducible to a non-art purpose, it is no longer art, as this next example from my own practice shows.
+
     -------- [SLIDE: Stewart Hughes, FlowAttractor (2023)] --------
 
-    In \emph{FlowAttractor}, the flow of cubes visualises the hidden movement of work items in a bank’s software development system. In that context, its purpose is to heighten awareness of small decisions that shape system flow. Augmented reality works well for this.
+    In the augmented reality piece \emph{FlowAttractor}, the flow of cubes visualises the hidden movement of work items in a bank’s software development system. In that context, its purpose is to heighten awareness of small decisions that improve the workflow, and it works surprisingly well.
 
-    FlowAttractor started as an experiment to see if it was possible to integrate and artwork into the internal processes of a large organisation. As it turned out, because its meaning is completely reducible to a non–art purpose in that context, it ceases to be an art object.
+    FlowAttractor started as an experiment to see if it was possible to integrate an artwork into the internal processes of a large organisation. However, because its meaning is completely reducible to a non–art purpose in that context, it ceases to be an art object.
 
     -------- [SLIDE: ANAESTHESIA] --------
 
-    It is worth noting that purpose is contextual for all technical objects, not just art objects. For instance, we don't know exactly how Anaesthesia works.
+    It is worth noting that purpose is contextual and indeterminate for all technical objects, not just art objects. For instance, we don't know exactly how Anaesthesia works.
 
     -------- [SLIDE: VIAGRA] --------
 
@@ -141,9 +140,9 @@
     
     -------- [SLIDE: "...without a purpose..." ~ Kant] --------
 
-    Another reason purpose is confusing is that purpose, or lack of it, has been understood to be the line of difference separating artmaking and other forms of making. For Kant, beauty was ``purposive without a purpose''. For him, an art object’s value lay in its apparent lack of functional purpose, as if being beautiful was not a real purpose.
+    Another reason it might feel strange to talk about purpose and art is that purpose, or lack of it, has been understood to be the line of difference separating artmaking and other forms of making. For Kant, beauty was ``purposive without a purpose''. For him, an art object’s value lay in its apparent lack of functional purpose, as if being beautiful was not a real purpose.
 
-    This idea is circular. It is only available as an idea if one already assumes that art objects differ categorically from crafted objects, rather than simply being another kind of crafted object.
+    This idea is circular. It is only available as an idea if one already assumes that art objects differ categorically from other crafted objects, rather than simply being another kind of crafted object.
 
     So. How did the idea come about that art is an entirely different category of practice from technology? Why is it vaguely unthinkable to think of art as a technology?
 
@@ -151,11 +150,19 @@
 
     -------- [SLIDE: "Adaptive systems..." ~ Flack] --------
 
-    According to science, ``coarse graining'' occurs when a subsystem with emergent properties is treated as a single entity by the wider system.  It is ``lossy but true'' -- like zooming out on a map to get a sense of the shape of a city, and losing the detail about specific streets and buildings.
+    According to science, ``coarse graining'' occurs when a subsystem with emergent properties is treated as a single entity by the wider system.  It is ``lossy but true''
+    
+    -------- [SLIDE: MAP OF SEOUL X 1] --------
 
-    Sometimes, though, it’s just lossy. Humans, evolutionarily tuned to find patterns, often imagine them.
+     -- like zooming out on a map to get a sense of the shape of a city, and losing the detail about specific streets and buildings.
 
-    The perceived split between art and technology may be one such imagined pattern -— a dodgy bit of coarse graining that has persisted for about six hundred years. It exists because the aesthetic regime overlays an older regime where that distinction first emerged.
+    -------- [SLIDE: MAP OF SEOUL X 5] --------
+
+    -------- [SLIDE: CLOUD RABBIT] --------
+
+    Sometimes, though, coarse graining is just lossy. Humans, evolutionarily tuned to find patterns, often imagine them.
+
+    The perceived split between art and technology may be one such imagined pattern -— a dodgy bit of coarse graining that has persisted for about six hundred years. It exists because the aesthetic regime overlays an older regime in which that distinction first emerged.
     
     -------- [SLIDE: "...does not abolish the representative regime..." ~ Rancière] --------
 
